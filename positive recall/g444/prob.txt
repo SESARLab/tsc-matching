@@ -1,0 +1,5058 @@
+
+
+
+
+
+ N=6
+
+
+
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-0.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n588], v[n520]], [v[n973], v[n520]], [v[n535], v[n251], v[n520]], [v[n906], v[n992], v[n520]], [v[n592], v[n520]], [v[n730], v[n111], v[n520]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-0.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-1.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n531], v[n407]], [v[n302], v[n407]], [v[n341], v[n843], v[n407]], [v[n141], v[n549], v[n407]], [v[n945], v[n407]], [v[n92], v[n44], v[n407]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-1.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-2.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n435], v[n800], v[n637]], [v[n536], v[n108], v[n637]], [v[n346], v[n637]], [v[n158], v[n637]], [v[n628], v[n670], v[n637]], [v[n714], v[n637]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-2.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-3.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n513], v[n199], v[n110]], [v[n172], v[n656], v[n110]], [v[n643], v[n110]], [v[n943], v[n43], v[n110]], [v[n282], v[n110]], [v[n880], v[n110]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-3.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-4.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n663], v[n173], v[n954]], [v[n901], v[n526], v[n954]], [v[n661], v[n954]], [v[n807], v[n467], v[n954]], [v[n892], v[n954]], [v[n450], v[n954]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-4.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-5.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n877], v[n435]], [v[n974], v[n435]], [v[n819], v[n90], v[n435]], [v[n152], v[n163], v[n435]], [v[n325], v[n435]], [v[n468], v[n480], v[n435]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-5.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-6.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n413], v[n235]], [v[n760], v[n450], v[n235]], [v[n621], v[n865], v[n235]], [v[n693], v[n235]], [v[n200], v[n952], v[n235]], [v[n747], v[n235]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-6.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-7.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n717], v[n208]], [v[n573], v[n269], v[n208]], [v[n373], v[n844], v[n208]], [v[n367], v[n208]], [v[n742], v[n872], v[n208]], [v[n698], v[n208]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-7.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-8.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n693], v[n314], v[n623]], [v[n739], v[n432], v[n623]], [v[n828], v[n623]], [v[n231], v[n835], v[n623]], [v[n193], v[n623]], [v[n635], v[n623]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-8.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-9.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n1002], v[n195]], [v[n426], v[n195]], [v[n568], v[n649], v[n195]], [v[n792], v[n507], v[n195]], [v[n59], v[n195]], [v[n183], v[n587], v[n195]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-9.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-10.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n948], v[n1006]], [v[n541], v[n536], v[n1006]], [v[n104], v[n997], v[n1006]], [v[n864], v[n1006]], [v[n290], v[n892], v[n1006]], [v[n357], v[n1006]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-10.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-11.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n628], v[n608], v[n509]], [v[n341], v[n620], v[n509]], [v[n299], v[n509]], [v[n318], v[n509]], [v[n836], v[n602], v[n509]], [v[n289], v[n509]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-11.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-12.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n725], v[n716], v[n871]], [v[n365], v[n519], v[n871]], [v[n609], v[n871]], [v[n976], v[n698], v[n871]], [v[n923], v[n871]], [v[n99], v[n871]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-12.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-13.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n872], v[n687]], [v[n578], v[n397], v[n687]], [v[n96], v[n135], v[n687]], [v[n374], v[n687]], [v[n252], v[n992], v[n687]], [v[n701], v[n687]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-13.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-14.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n139], v[n116], v[n488]], [v[n15], v[n702], v[n488]], [v[n256], v[n488]], [v[n223], v[n315], v[n488]], [v[n92], v[n488]], [v[n694], v[n488]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-14.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-15.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n166], v[n388], v[n65]], [v[n318], v[n631], v[n65]], [v[n844], v[n65]], [v[n346], v[n65]], [v[n139], v[n556], v[n65]], [v[n717], v[n65]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-15.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-16.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n477], v[n737], v[n338]], [v[n837], v[n444], v[n338]], [v[n336], v[n338]], [v[n813], v[n239], v[n338]], [v[n13], v[n338]], [v[n82], v[n338]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-16.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-17.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n440], v[n600], v[n880]], [v[n898], v[n451], v[n880]], [v[n522], v[n880]], [v[n950], v[n76], v[n880]], [v[n247], v[n880]], [v[n136], v[n880]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-17.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-18.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n280], v[n732], v[n593]], [v[n52], v[n130], v[n593]], [v[n713], v[n593]], [v[n766], v[n239], v[n593]], [v[n475], v[n593]], [v[n634], v[n593]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-18.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-19.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n740], v[n664], v[n87]], [v[n888], v[n158], v[n87]], [v[n60], v[n87]], [v[n633], v[n87]], [v[n450], v[n920], v[n87]], [v[n17], v[n87]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-19.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-20.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n800], v[n565]], [v[n653], v[n565]], [v[n293], v[n992], v[n565]], [v[n902], v[n86], v[n565]], [v[n491], v[n565]], [v[n454], v[n961], v[n565]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-20.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-21.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n986], v[n337]], [v[n422], v[n337]], [v[n1003], v[n268], v[n337]], [v[n978], v[n534], v[n337]], [v[n369], v[n337]], [v[n651], v[n731], v[n337]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-21.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-22.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n179], v[n788], v[n662]], [v[n820], v[n804], v[n662]], [v[n645], v[n662]], [v[n372], v[n662]], [v[n702], v[n882], v[n662]], [v[n19], v[n662]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-22.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-23.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n348], v[n95], v[n658]], [v[n551], v[n172], v[n658]], [v[n591], v[n658]], [v[n96], v[n655], v[n658]], [v[n505], v[n658]], [v[n669], v[n658]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-23.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-24.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n501], v[n713]], [v[n374], v[n204], v[n713]], [v[n901], v[n15], v[n713]], [v[n976], v[n713]], [v[n432], v[n628], v[n713]], [v[n507], v[n713]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-24.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-25.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n413], v[n660], v[n48]], [v[n267], v[n855], v[n48]], [v[n958], v[n48]], [v[n918], v[n783], v[n48]], [v[n77], v[n48]], [v[n737], v[n48]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-25.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-26.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n656], v[n497]], [v[n805], v[n92], v[n497]], [v[n325], v[n483], v[n497]], [v[n828], v[n497]], [v[n533], v[n176], v[n497]], [v[n371], v[n497]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-26.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-27.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n123], v[n461]], [v[n183], v[n461]], [v[n629], v[n119], v[n461]], [v[n728], v[n921], v[n461]], [v[n622], v[n461]], [v[n147], v[n691], v[n461]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-27.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-28.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n373], v[n948], v[n478]], [v[n956], v[n34], v[n478]], [v[n844], v[n478]], [v[n693], v[n719], v[n478]], [v[n951], v[n478]], [v[n178], v[n478]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-28.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-29.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n508], v[n321], v[n216]], [v[n741], v[n375], v[n216]], [v[n259], v[n216]], [v[n922], v[n216]], [v[n39], v[n491], v[n216]], [v[n465], v[n216]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-29.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-30.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n612], v[n810], v[n616]], [v[n334], v[n787], v[n616]], [v[n200], v[n616]], [v[n308], v[n616]], [v[n713], v[n907], v[n616]], [v[n460], v[n616]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-30.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-31.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n912], v[n814], v[n392]], [v[n133], v[n30], v[n392]], [v[n537], v[n392]], [v[n421], v[n392]], [v[n184], v[n579], v[n392]], [v[n688], v[n392]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-31.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-32.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n814], v[n799], v[n226]], [v[n824], v[n936], v[n226]], [v[n860], v[n226]], [v[n210], v[n57], v[n226]], [v[n137], v[n226]], [v[n336], v[n226]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-32.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-33.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n726], v[n302]], [v[n369], v[n302]], [v[n900], v[n333], v[n302]], [v[n56], v[n298], v[n302]], [v[n849], v[n302]], [v[n928], v[n884], v[n302]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-33.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-34.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n146], v[n888], v[n118]], [v[n984], v[n181], v[n118]], [v[n268], v[n118]], [v[n532], v[n118]], [v[n934], v[n336], v[n118]], [v[n539], v[n118]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-34.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-35.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n154], v[n11]], [v[n779], v[n86], v[n11]], [v[n863], v[n630], v[n11]], [v[n457], v[n11]], [v[n498], v[n894], v[n11]], [v[n930], v[n11]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-35.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-36.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n842], v[n556], v[n980]], [v[n541], v[n432], v[n980]], [v[n472], v[n980]], [v[n285], v[n980]], [v[n313], v[n1005], v[n980]], [v[n167], v[n980]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-36.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-37.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n98], v[n1000]], [v[n728], v[n789], v[n1000]], [v[n572], v[n535], v[n1000]], [v[n184], v[n1000]], [v[n964], v[n782], v[n1000]], [v[n680], v[n1000]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-37.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-38.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n300], v[n733]], [v[n708], v[n129], v[n733]], [v[n367], v[n904], v[n733]], [v[n651], v[n733]], [v[n960], v[n475], v[n733]], [v[n63], v[n733]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-38.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-39.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n609], v[n498], v[n742]], [v[n372], v[n682], v[n742]], [v[n462], v[n742]], [v[n717], v[n765], v[n742]], [v[n743], v[n742]], [v[n594], v[n742]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-39.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-40.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n575], v[n648], v[n694]], [v[n591], v[n658], v[n694]], [v[n535], v[n694]], [v[n346], v[n386], v[n694]], [v[n801], v[n694]], [v[n902], v[n694]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-40.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-41.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n576], v[n157], v[n766]], [v[n380], v[n391], v[n766]], [v[n925], v[n766]], [v[n429], v[n766]], [v[n589], v[n480], v[n766]], [v[n517], v[n766]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-41.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-42.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n450], v[n691], v[n959]], [v[n31], v[n884], v[n959]], [v[n820], v[n959]], [v[n634], v[n959]], [v[n96], v[n888], v[n959]], [v[n726], v[n959]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-42.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-43.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n597], v[n507], v[n111]], [v[n627], v[n471], v[n111]], [v[n56], v[n111]], [v[n467], v[n111]], [v[n303], v[n798], v[n111]], [v[n698], v[n111]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-43.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-44.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n97], v[n874], v[n256]], [v[n800], v[n953], v[n256]], [v[n290], v[n256]], [v[n821], v[n68], v[n256]], [v[n572], v[n256]], [v[n484], v[n256]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-44.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-45.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n535], v[n424]], [v[n121], v[n845], v[n424]], [v[n795], v[n132], v[n424]], [v[n553], v[n424]], [v[n398], v[n214], v[n424]], [v[n466], v[n424]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-45.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-46.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n544], v[n413]], [v[n380], v[n413]], [v[n425], v[n602], v[n413]], [v[n431], v[n251], v[n413]], [v[n441], v[n413]], [v[n639], v[n617], v[n413]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-46.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-47.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n557], v[n59], v[n274]], [v[n549], v[n987], v[n274]], [v[n83], v[n274]], [v[n270], v[n274]], [v[n477], v[n453], v[n274]], [v[n391], v[n274]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-47.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-48.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n565], v[n652]], [v[n384], v[n213], v[n652]], [v[n79], v[n711], v[n652]], [v[n593], v[n652]], [v[n814], v[n19], v[n652]], [v[n890], v[n652]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-48.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-49.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n625], v[n857], v[n319]], [v[n89], v[n314], v[n319]], [v[n93], v[n319]], [v[n919], v[n912], v[n319]], [v[n655], v[n319]], [v[n109], v[n319]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-49.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-50.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n936], v[n746], v[n699]], [v[n110], v[n350], v[n699]], [v[n464], v[n699]], [v[n386], v[n699]], [v[n688], v[n972], v[n699]], [v[n986], v[n699]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-50.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-51.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n551], v[n826], v[n103]], [v[n977], v[n302], v[n103]], [v[n512], v[n103]], [v[n216], v[n103]], [v[n403], v[n853], v[n103]], [v[n51], v[n103]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-51.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-52.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n453], v[n417]], [v[n492], v[n417]], [v[n190], v[n368], v[n417]], [v[n421], v[n538], v[n417]], [v[n708], v[n417]], [v[n777], v[n537], v[n417]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-52.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-53.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n300], v[n47], v[n916]], [v[n993], v[n980], v[n916]], [v[n816], v[n916]], [v[n518], v[n976], v[n916]], [v[n444], v[n916]], [v[n264], v[n916]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-53.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-54.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n851], v[n90], v[n112]], [v[n989], v[n408], v[n112]], [v[n706], v[n112]], [v[n83], v[n78], v[n112]], [v[n382], v[n112]], [v[n246], v[n112]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-54.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-55.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n918], v[n502]], [v[n378], v[n502]], [v[n981], v[n18], v[n502]], [v[n469], v[n767], v[n502]], [v[n420], v[n502]], [v[n213], v[n391], v[n502]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-55.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-56.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n146], v[n175]], [v[n305], v[n468], v[n175]], [v[n259], v[n675], v[n175]], [v[n436], v[n175]], [v[n82], v[n361], v[n175]], [v[n920], v[n175]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-56.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-57.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n132], v[n302]], [v[n315], v[n302]], [v[n189], v[n554], v[n302]], [v[n435], v[n38], v[n302]], [v[n755], v[n302]], [v[n53], v[n64], v[n302]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-57.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-58.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n686], v[n66], v[n864]], [v[n650], v[n938], v[n864]], [v[n756], v[n864]], [v[n517], v[n864]], [v[n611], v[n677], v[n864]], [v[n136], v[n864]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-58.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-59.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n393], v[n495], v[n267]], [v[n585], v[n417], v[n267]], [v[n946], v[n267]], [v[n419], v[n234], v[n267]], [v[n935], v[n267]], [v[n35], v[n267]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-59.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-60.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n773], v[n594], v[n97]], [v[n435], v[n184], v[n97]], [v[n972], v[n97]], [v[n46], v[n97]], [v[n734], v[n250], v[n97]], [v[n64], v[n97]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-60.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-61.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n828], v[n615], v[n356]], [v[n932], v[n450], v[n356]], [v[n729], v[n356]], [v[n499], v[n733], v[n356]], [v[n221], v[n356]], [v[n138], v[n356]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-61.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-62.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n464], v[n297], v[n439]], [v[n244], v[n453], v[n439]], [v[n12], v[n439]], [v[n380], v[n439]], [v[n977], v[n157], v[n439]], [v[n438], v[n439]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-62.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-63.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n125], v[n442], v[n587]], [v[n388], v[n74], v[n587]], [v[n19], v[n587]], [v[n352], v[n319], v[n587]], [v[n424], v[n587]], [v[n209], v[n587]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-63.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-64.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n300], v[n868]], [v[n734], v[n656], v[n868]], [v[n914], v[n277], v[n868]], [v[n811], v[n868]], [v[n256], v[n60], v[n868]], [v[n1002], v[n868]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-64.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-65.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n967], v[n87], v[n266]], [v[n738], v[n103], v[n266]], [v[n213], v[n266]], [v[n799], v[n973], v[n266]], [v[n243], v[n266]], [v[n161], v[n266]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-65.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-66.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n957], v[n646]], [v[n323], v[n947], v[n646]], [v[n223], v[n621], v[n646]], [v[n57], v[n646]], [v[n862], v[n382], v[n646]], [v[n561], v[n646]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-66.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-67.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n858], v[n147]], [v[n715], v[n147]], [v[n594], v[n492], v[n147]], [v[n798], v[n148], v[n147]], [v[n419], v[n147]], [v[n658], v[n999], v[n147]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-67.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-68.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n715], v[n351], v[n149]], [v[n737], v[n376], v[n149]], [v[n193], v[n149]], [v[n726], v[n480], v[n149]], [v[n177], v[n149]], [v[n318], v[n149]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-68.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-69.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n312], v[n125], v[n956]], [v[n705], v[n23], v[n956]], [v[n981], v[n956]], [v[n92], v[n956]], [v[n261], v[n158], v[n956]], [v[n165], v[n956]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-69.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-70.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n592], v[n253], v[n926]], [v[n364], v[n558], v[n926]], [v[n757], v[n926]], [v[n994], v[n926]], [v[n428], v[n761], v[n926]], [v[n783], v[n926]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-70.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-71.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n604], v[n938]], [v[n275], v[n938]], [v[n805], v[n716], v[n938]], [v[n90], v[n480], v[n938]], [v[n887], v[n938]], [v[n564], v[n878], v[n938]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-71.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-72.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n256], v[n166]], [v[n650], v[n937], v[n166]], [v[n69], v[n938], v[n166]], [v[n29], v[n166]], [v[n470], v[n448], v[n166]], [v[n264], v[n166]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-72.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-73.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n764], v[n725], v[n767]], [v[n361], v[n85], v[n767]], [v[n423], v[n767]], [v[n705], v[n918], v[n767]], [v[n757], v[n767]], [v[n27], v[n767]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-73.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-74.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n658], v[n298]], [v[n662], v[n298]], [v[n113], v[n218], v[n298]], [v[n339], v[n332], v[n298]], [v[n165], v[n298]], [v[n155], v[n186], v[n298]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-74.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-75.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n656], v[n156], v[n680]], [v[n988], v[n124], v[n680]], [v[n890], v[n680]], [v[n397], v[n851], v[n680]], [v[n749], v[n680]], [v[n767], v[n680]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-75.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-76.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n216], v[n984], v[n605]], [v[n801], v[n143], v[n605]], [v[n379], v[n605]], [v[n411], v[n605]], [v[n472], v[n969], v[n605]], [v[n521], v[n605]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-76.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:2
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+8/6
+MAX:2
+AVG:1.3333334
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-77.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n60], v[n522]], [v[n993], v[n349], v[n522]], [v[n631], v[n686], v[n522]], [v[n168], v[n522]], [v[n823], v[n466], v[n522]], [v[n849], v[n522]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-77.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-78.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n136], v[n939], v[n322]], [v[n432], v[n79], v[n322]], [v[n12], v[n322]], [v[n980], v[n86], v[n322]], [v[n522], v[n322]], [v[n936], v[n322]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-78.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceGraph-79.xml
+CHARGING THE GRAPH
+Permutations available:720
+Path Avaiable:[[v[n581], v[n596], v[n954]], [v[n400], v[n610], v[n954]], [v[n353], v[n954]], [v[n649], v[n907], v[n954]], [v[n840], v[n954]], [v[n103], v[n954]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-6/IstanceEvidence-79.xml
+Permutations available:720
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n1], v[n0]], [v[n8], v[n0]], [v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:2
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+7/6
+MAX:2
+AVG:1.1666666
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+ N=7
+
+
+
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-0.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n653], v[n872]], [v[n517], v[n872]], [v[n198], v[n696], v[n872]], [v[n699], v[n886], v[n872]], [v[n339], v[n1009], v[n872]], [v[n400], v[n90], v[n872]], [v[n728], v[n872]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-0.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-1.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n734], v[n799]], [v[n584], v[n962], v[n799]], [v[n876], v[n653], v[n799]], [v[n475], v[n34], v[n799]], [v[n158], v[n799]], [v[n628], v[n799]], [v[n328], v[n693], v[n799]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-1.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-2.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n521], v[n646]], [v[n218], v[n646]], [v[n535], v[n646]], [v[n508], v[n954], v[n646]], [v[n417], v[n267], v[n646]], [v[n461], v[n952], v[n646]], [v[n692], v[n225], v[n646]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-2.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-3.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n667], v[n430], v[n357]], [v[n1004], v[n357]], [v[n892], v[n357]], [v[n390], v[n357]], [v[n208], v[n294], v[n357]], [v[n539], v[n304], v[n357]], [v[n598], v[n614], v[n357]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-3.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-4.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n282], v[n734], v[n834]], [v[n637], v[n841], v[n834]], [v[n416], v[n834]], [v[n701], v[n834]], [v[n737], v[n834]], [v[n524], v[n963], v[n834]], [v[n819], v[n870], v[n834]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-4.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-5.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n29], v[n106]], [v[n474], v[n106]], [v[n778], v[n106]], [v[n143], v[n654], v[n106]], [v[n903], v[n83], v[n106]], [v[n243], v[n573], v[n106]], [v[n452], v[n1006], v[n106]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-5.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-6.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n714], v[n426], v[n420]], [v[n167], v[n482], v[n420]], [v[n918], v[n420]], [v[n853], v[n420]], [v[n623], v[n420]], [v[n255], v[n16], v[n420]], [v[n924], v[n589], v[n420]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-6.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-7.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n713], v[n256], v[n623]], [v[n544], v[n178], v[n623]], [v[n427], v[n623]], [v[n451], v[n623]], [v[n863], v[n623]], [v[n331], v[n126], v[n623]], [v[n657], v[n351], v[n623]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-7.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-8.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n298], v[n901]], [v[n130], v[n537], v[n901]], [v[n137], v[n522], v[n901]], [v[n260], v[n668], v[n901]], [v[n202], v[n901]], [v[n178], v[n901]], [v[n278], v[n956], v[n901]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-8.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-9.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n718], v[n177]], [v[n110], v[n508], v[n177]], [v[n563], v[n841], v[n177]], [v[n743], v[n199], v[n177]], [v[n39], v[n177]], [v[n864], v[n177]], [v[n964], v[n209], v[n177]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-9.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-10.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n236], v[n639], v[n662]], [v[n999], v[n662]], [v[n282], v[n662]], [v[n531], v[n662]], [v[n962], v[n687], v[n662]], [v[n389], v[n347], v[n662]], [v[n263], v[n915], v[n662]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-10.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-11.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n381], v[n684]], [v[n593], v[n132], v[n684]], [v[n564], v[n742], v[n684]], [v[n947], v[n386], v[n684]], [v[n826], v[n684]], [v[n257], v[n684]], [v[n323], v[n431], v[n684]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-11.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-12.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n343], v[n85]], [v[n323], v[n45], v[n85]], [v[n807], v[n887], v[n85]], [v[n341], v[n946], v[n85]], [v[n415], v[n85]], [v[n953], v[n85]], [v[n431], v[n972], v[n85]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-12.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-13.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n828], v[n329], v[n674]], [v[n667], v[n57], v[n674]], [v[n551], v[n674]], [v[n773], v[n674]], [v[n322], v[n674]], [v[n703], v[n562], v[n674]], [v[n108], v[n668], v[n674]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-13.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-14.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n717], v[n204]], [v[n200], v[n204]], [v[n254], v[n251], v[n204]], [v[n315], v[n830], v[n204]], [v[n367], v[n961], v[n204]], [v[n502], v[n663], v[n204]], [v[n574], v[n204]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-14.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-15.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n87], v[n723]], [v[n818], v[n723]], [v[n361], v[n728], v[n723]], [v[n53], v[n412], v[n723]], [v[n668], v[n174], v[n723]], [v[n912], v[n220], v[n723]], [v[n330], v[n723]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-15.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-16.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n410], v[n222]], [v[n465], v[n222]], [v[n435], v[n222]], [v[n83], v[n178], v[n222]], [v[n885], v[n855], v[n222]], [v[n239], v[n676], v[n222]], [v[n42], v[n831], v[n222]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-16.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-17.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n137], v[n117]], [v[n110], v[n117]], [v[n442], v[n226], v[n117]], [v[n139], v[n616], v[n117]], [v[n248], v[n393], v[n117]], [v[n933], v[n31], v[n117]], [v[n89], v[n117]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-17.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-18.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n796], v[n67]], [v[n520], v[n14], v[n67]], [v[n653], v[n708], v[n67]], [v[n308], v[n946], v[n67]], [v[n763], v[n67]], [v[n607], v[n67]], [v[n530], v[n107], v[n67]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-18.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-19.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n298], v[n521]], [v[n551], v[n521]], [v[n290], v[n444], v[n521]], [v[n542], v[n852], v[n521]], [v[n1000], v[n937], v[n521]], [v[n276], v[n57], v[n521]], [v[n494], v[n521]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-19.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-20.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n141], v[n183]], [v[n604], v[n692], v[n183]], [v[n385], v[n994], v[n183]], [v[n64], v[n265], v[n183]], [v[n647], v[n183]], [v[n24], v[n183]], [v[n940], v[n721], v[n183]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-20.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-21.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n580], v[n74]], [v[n626], v[n74]], [v[n708], v[n74]], [v[n237], v[n457], v[n74]], [v[n559], v[n169], v[n74]], [v[n213], v[n890], v[n74]], [v[n963], v[n497], v[n74]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-21.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-22.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n336], v[n383], v[n936]], [v[n188], v[n936]], [v[n207], v[n936]], [v[n168], v[n936]], [v[n984], v[n714], v[n936]], [v[n961], v[n681], v[n936]], [v[n535], v[n245], v[n936]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-22.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-23.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n478], v[n235]], [v[n635], v[n235]], [v[n766], v[n887], v[n235]], [v[n380], v[n961], v[n235]], [v[n357], v[n57], v[n235]], [v[n876], v[n730], v[n235]], [v[n516], v[n235]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-23.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-24.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n851], v[n413], v[n255]], [v[n568], v[n349], v[n255]], [v[n362], v[n255]], [v[n218], v[n255]], [v[n624], v[n255]], [v[n1008], v[n971], v[n255]], [v[n231], v[n646], v[n255]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-24.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-25.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n571], v[n407], v[n135]], [v[n430], v[n772], v[n135]], [v[n845], v[n135]], [v[n969], v[n135]], [v[n828], v[n135]], [v[n147], v[n254], v[n135]], [v[n455], v[n20], v[n135]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-25.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-26.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n199], v[n365]], [v[n425], v[n365]], [v[n539], v[n365]], [v[n726], v[n852], v[n365]], [v[n487], v[n422], v[n365]], [v[n649], v[n19], v[n365]], [v[n960], v[n856], v[n365]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-26.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-27.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n793], v[n477], v[n1009]], [v[n928], v[n1009]], [v[n319], v[n1009]], [v[n199], v[n1009]], [v[n637], v[n739], v[n1009]], [v[n394], v[n38], v[n1009]], [v[n281], v[n569], v[n1009]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-27.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-28.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n917], v[n345], v[n353]], [v[n564], v[n698], v[n353]], [v[n559], v[n353]], [v[n932], v[n353]], [v[n141], v[n353]], [v[n949], v[n994], v[n353]], [v[n916], v[n435], v[n353]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-28.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-29.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n750], v[n546]], [v[n195], v[n546]], [v[n349], v[n239], v[n546]], [v[n351], v[n586], v[n546]], [v[n649], v[n934], v[n546]], [v[n393], v[n18], v[n546]], [v[n496], v[n546]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-29.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-30.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n137], v[n874]], [v[n863], v[n874]], [v[n138], v[n874]], [v[n406], v[n590], v[n874]], [v[n822], v[n811], v[n874]], [v[n804], v[n55], v[n874]], [v[n808], v[n109], v[n874]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-30.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-31.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n990], v[n682], v[n728]], [v[n249], v[n763], v[n728]], [v[n620], v[n728]], [v[n338], v[n728]], [v[n626], v[n728]], [v[n704], v[n1005], v[n728]], [v[n248], v[n762], v[n728]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-31.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-32.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n67], v[n439]], [v[n435], v[n688], v[n439]], [v[n787], v[n145], v[n439]], [v[n119], v[n104], v[n439]], [v[n69], v[n439]], [v[n449], v[n439]], [v[n918], v[n466], v[n439]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-32.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-33.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n942], v[n430]], [v[n847], v[n470], v[n430]], [v[n691], v[n921], v[n430]], [v[n531], v[n44], v[n430]], [v[n787], v[n430]], [v[n151], v[n430]], [v[n598], v[n692], v[n430]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-33.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-34.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n649], v[n155], v[n150]], [v[n465], v[n885], v[n150]], [v[n167], v[n150]], [v[n552], v[n150]], [v[n655], v[n150]], [v[n753], v[n910], v[n150]], [v[n733], v[n668], v[n150]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-34.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-35.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n167], v[n724], v[n854]], [v[n362], v[n854]], [v[n94], v[n854]], [v[n679], v[n854]], [v[n502], v[n553], v[n854]], [v[n142], v[n579], v[n854]], [v[n157], v[n691], v[n854]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-35.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-36.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n542], v[n921], v[n89]], [v[n934], v[n89]], [v[n817], v[n89]], [v[n597], v[n89]], [v[n740], v[n501], v[n89]], [v[n297], v[n1006], v[n89]], [v[n244], v[n809], v[n89]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-36.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-37.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n84], v[n978]], [v[n352], v[n978]], [v[n887], v[n978]], [v[n93], v[n333], v[n978]], [v[n440], v[n110], v[n978]], [v[n817], v[n36], v[n978]], [v[n29], v[n628], v[n978]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-37.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-38.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n580], v[n17]], [v[n177], v[n818], v[n17]], [v[n586], v[n192], v[n17]], [v[n413], v[n753], v[n17]], [v[n902], v[n17]], [v[n545], v[n17]], [v[n214], v[n912], v[n17]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-38.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-39.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n577], v[n166], v[n960]], [v[n211], v[n960]], [v[n886], v[n960]], [v[n587], v[n960]], [v[n519], v[n684], v[n960]], [v[n808], v[n545], v[n960]], [v[n346], v[n856], v[n960]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-39.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-40.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n567], v[n742]], [v[n134], v[n227], v[n742]], [v[n922], v[n59], v[n742]], [v[n700], v[n911], v[n742]], [v[n403], v[n742]], [v[n93], v[n742]], [v[n531], v[n877], v[n742]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-40.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-41.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n243], v[n871], v[n45]], [v[n75], v[n723], v[n45]], [v[n737], v[n45]], [v[n882], v[n45]], [v[n729], v[n45]], [v[n497], v[n383], v[n45]], [v[n714], v[n53], v[n45]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-41.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-42.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n215], v[n824]], [v[n74], v[n824]], [v[n953], v[n824]], [v[n171], v[n273], v[n824]], [v[n621], v[n137], v[n824]], [v[n386], v[n931], v[n824]], [v[n585], v[n679], v[n824]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-42.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-43.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n332], v[n201]], [v[n53], v[n201]], [v[n209], v[n201]], [v[n982], v[n370], v[n201]], [v[n633], v[n559], v[n201]], [v[n481], v[n353], v[n201]], [v[n723], v[n887], v[n201]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-43.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-44.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n532], v[n681]], [v[n970], v[n730], v[n681]], [v[n872], v[n757], v[n681]], [v[n331], v[n772], v[n681]], [v[n1007], v[n681]], [v[n407], v[n681]], [v[n877], v[n364], v[n681]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-44.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-45.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n593], v[n1010]], [v[n931], v[n1010]], [v[n756], v[n1010]], [v[n304], v[n755], v[n1010]], [v[n689], v[n328], v[n1010]], [v[n881], v[n301], v[n1010]], [v[n429], v[n612], v[n1010]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-45.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-46.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n954], v[n150]], [v[n528], v[n616], v[n150]], [v[n869], v[n797], v[n150]], [v[n984], v[n834], v[n150]], [v[n602], v[n150]], [v[n262], v[n150]], [v[n849], v[n493], v[n150]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-46.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-47.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n723], v[n980], v[n858]], [v[n610], v[n565], v[n858]], [v[n549], v[n858]], [v[n971], v[n858]], [v[n995], v[n858]], [v[n843], v[n1003], v[n858]], [v[n715], v[n211], v[n858]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-47.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-48.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n391], v[n262], v[n958]], [v[n145], v[n132], v[n958]], [v[n363], v[n958]], [v[n490], v[n958]], [v[n998], v[n958]], [v[n337], v[n146], v[n958]], [v[n888], v[n831], v[n958]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-48.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-49.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n1002], v[n463], v[n340]], [v[n736], v[n340]], [v[n771], v[n340]], [v[n508], v[n340]], [v[n937], v[n781], v[n340]], [v[n379], v[n783], v[n340]], [v[n700], v[n91], v[n340]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-49.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-50.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n176], v[n845], v[n919]], [v[n774], v[n919]], [v[n651], v[n919]], [v[n586], v[n919]], [v[n652], v[n649], v[n919]], [v[n233], v[n829], v[n919]], [v[n999], v[n863], v[n919]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-50.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-51.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n446], v[n159]], [v[n716], v[n159]], [v[n73], v[n761], v[n159]], [v[n618], v[n809], v[n159]], [v[n986], v[n644], v[n159]], [v[n103], v[n948], v[n159]], [v[n414], v[n159]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-51.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-52.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n461], v[n181], v[n238]], [v[n894], v[n238]], [v[n381], v[n238]], [v[n163], v[n238]], [v[n946], v[n515], v[n238]], [v[n695], v[n579], v[n238]], [v[n972], v[n770], v[n238]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-52.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-53.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n159], v[n800], v[n215]], [v[n328], v[n665], v[n215]], [v[n369], v[n215]], [v[n496], v[n215]], [v[n809], v[n215]], [v[n268], v[n874], v[n215]], [v[n807], v[n870], v[n215]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-53.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-54.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n354], v[n812]], [v[n776], v[n812]], [v[n169], v[n812]], [v[n460], v[n755], v[n812]], [v[n499], v[n70], v[n812]], [v[n936], v[n814], v[n812]], [v[n1007], v[n959], v[n812]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-54.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-55.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n598], v[n326]], [v[n703], v[n326]], [v[n765], v[n302], v[n326]], [v[n72], v[n245], v[n326]], [v[n105], v[n142], v[n326]], [v[n195], v[n204], v[n326]], [v[n406], v[n326]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-55.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-56.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n821], v[n621], v[n39]], [v[n942], v[n39]], [v[n117], v[n39]], [v[n308], v[n39]], [v[n623], v[n895], v[n39]], [v[n40], v[n229], v[n39]], [v[n834], v[n414], v[n39]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-56.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-57.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n107], v[n238], v[n635]], [v[n502], v[n522], v[n635]], [v[n500], v[n635]], [v[n287], v[n635]], [v[n219], v[n635]], [v[n985], v[n225], v[n635]], [v[n564], v[n431], v[n635]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-57.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-58.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n101], v[n710], v[n926]], [v[n266], v[n154], v[n926]], [v[n431], v[n926]], [v[n862], v[n926]], [v[n627], v[n926]], [v[n450], v[n779], v[n926]], [v[n826], v[n17], v[n926]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-58.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-59.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n502], v[n893]], [v[n50], v[n893]], [v[n734], v[n612], v[n893]], [v[n680], v[n470], v[n893]], [v[n890], v[n778], v[n893]], [v[n767], v[n985], v[n893]], [v[n584], v[n893]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-59.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-60.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n860], v[n27], v[n751]], [v[n276], v[n827], v[n751]], [v[n957], v[n751]], [v[n921], v[n751]], [v[n449], v[n751]], [v[n790], v[n704], v[n751]], [v[n623], v[n230], v[n751]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-60.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-61.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n844], v[n230], v[n612]], [v[n786], v[n612]], [v[n186], v[n612]], [v[n404], v[n612]], [v[n697], v[n889], v[n612]], [v[n788], v[n135], v[n612]], [v[n179], v[n81], v[n612]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-61.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-62.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n740], v[n156], v[n742]], [v[n273], v[n241], v[n742]], [v[n712], v[n742]], [v[n132], v[n742]], [v[n924], v[n742]], [v[n588], v[n460], v[n742]], [v[n572], v[n614], v[n742]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-62.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-63.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n68], v[n832]], [v[n994], v[n157], v[n832]], [v[n30], v[n167], v[n832]], [v[n619], v[n800], v[n832]], [v[n792], v[n832]], [v[n907], v[n832]], [v[n361], v[n39], v[n832]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-63.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-64.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n580], v[n800]], [v[n33], v[n800]], [v[n644], v[n383], v[n800]], [v[n108], v[n637], v[n800]], [v[n109], v[n525], v[n800]], [v[n828], v[n363], v[n800]], [v[n268], v[n800]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-64.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-65.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n421], v[n189]], [v[n469], v[n186], v[n189]], [v[n639], v[n932], v[n189]], [v[n402], v[n623], v[n189]], [v[n756], v[n189]], [v[n239], v[n189]], [v[n309], v[n388], v[n189]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-65.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-66.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n229], v[n723]], [v[n621], v[n723]], [v[n834], v[n723]], [v[n875], v[n29], v[n723]], [v[n693], v[n957], v[n723]], [v[n566], v[n547], v[n723]], [v[n467], v[n601], v[n723]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-66.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-67.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n969], v[n911], v[n14]], [v[n700], v[n418], v[n14]], [v[n586], v[n14]], [v[n667], v[n14]], [v[n596], v[n14]], [v[n456], v[n877], v[n14]], [v[n514], v[n561], v[n14]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-67.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-68.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n832], v[n247]], [v[n326], v[n265], v[n247]], [v[n841], v[n425], v[n247]], [v[n866], v[n37], v[n247]], [v[n845], v[n247]], [v[n438], v[n247]], [v[n165], v[n21], v[n247]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-68.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-69.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n354], v[n221], v[n215]], [v[n157], v[n215]], [v[n267], v[n215]], [v[n257], v[n215]], [v[n348], v[n830], v[n215]], [v[n821], v[n401], v[n215]], [v[n344], v[n67], v[n215]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-69.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-70.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n593], v[n437]], [v[n237], v[n437]], [v[n406], v[n437]], [v[n756], v[n501], v[n437]], [v[n589], v[n296], v[n437]], [v[n650], v[n360], v[n437]], [v[n489], v[n465], v[n437]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-70.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-71.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n162], v[n478]], [v[n328], v[n478]], [v[n590], v[n624], v[n478]], [v[n554], v[n430], v[n478]], [v[n374], v[n15], v[n478]], [v[n682], v[n691], v[n478]], [v[n998], v[n478]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-71.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-72.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n875], v[n921]], [v[n543], v[n696], v[n921]], [v[n549], v[n907], v[n921]], [v[n48], v[n904], v[n921]], [v[n109], v[n921]], [v[n56], v[n921]], [v[n428], v[n561], v[n921]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-72.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-73.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n332], v[n173]], [v[n570], v[n173]], [v[n260], v[n555], v[n173]], [v[n543], v[n873], v[n173]], [v[n196], v[n840], v[n173]], [v[n657], v[n342], v[n173]], [v[n691], v[n173]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-73.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-74.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n223], v[n20]], [v[n731], v[n809], v[n20]], [v[n961], v[n872], v[n20]], [v[n556], v[n46], v[n20]], [v[n376], v[n20]], [v[n778], v[n20]], [v[n710], v[n761], v[n20]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-74.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-75.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n848], v[n932]], [v[n934], v[n932]], [v[n110], v[n167], v[n932]], [v[n994], v[n382], v[n932]], [v[n623], v[n583], v[n932]], [v[n696], v[n437], v[n932]], [v[n789], v[n932]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-75.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-76.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n168], v[n32]], [v[n186], v[n32]], [v[n74], v[n873], v[n32]], [v[n568], v[n69], v[n32]], [v[n382], v[n125], v[n32]], [v[n913], v[n251], v[n32]], [v[n608], v[n32]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-76.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-77.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n461], v[n130]], [v[n90], v[n130]], [v[n758], v[n130]], [v[n719], v[n340], v[n130]], [v[n973], v[n661], v[n130]], [v[n408], v[n669], v[n130]], [v[n168], v[n603], v[n130]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-77.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-78.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n350], v[n181]], [v[n684], v[n181]], [v[n785], v[n181]], [v[n947], v[n164], v[n181]], [v[n810], v[n469], v[n181]], [v[n443], v[n567], v[n181]], [v[n802], v[n68], v[n181]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-78.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANALISYS:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceGraph-79.xml
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n868], v[n423]], [v[n533], v[n17], v[n423]], [v[n613], v[n196], v[n423]], [v[n878], v[n87], v[n423]], [v[n172], v[n423]], [v[n954], v[n423]], [v[n656], v[n437], v[n423]]]
+CREATED GRAPH IN RAM
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/deepm4/g444/deep-3/CM-7/IstanceEvidence-79.xml
+Permutations available:5040
+Path Avaiable:[[v[n4], v[n3], v[n0]], [v[n2], v[n0]], [v[n11], v[n0]], [v[n1], v[n0]], [v[n8], v[n7], v[n0]], [v[n6], v[n5], v[n0]], [v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+PATH:0 ha bindng:1
+PATH:1 ha bindng:1
+PATH:2 ha bindng:1
+PATH:3 ha bindng:1
+PATH:4 ha bindng:1
+PATH:5 ha bindng:1
+PATH:6 ha bindng:1
+7/7
+MAX:1
+AVG:1.0
+RISULTATO MODEL+EVIDENCE:true
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

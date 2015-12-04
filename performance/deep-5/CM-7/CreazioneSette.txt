@@ -1,0 +1,1803 @@
+Max Heap Size = 3817865216 byte
+Free Heap Size = 254719848 byte
+Total Heap Size = 257425408 byte
+CREATA RADICE:n0
+path:0 deep:5
+aggiunto vertice: n1
+aggiunto vertice: n2
+aggiunto vertice: n3
+aggiunto vertice: n4
+path:1 deep:5
+aggiunto vertice: n5
+aggiunto vertice: n6
+aggiunto vertice: n7
+aggiunto vertice: n8
+path:2 deep:5
+aggiunto vertice: n9
+aggiunto vertice: n10
+aggiunto vertice: n11
+aggiunto vertice: n12
+path:3 deep:4
+aggiunto vertice: n13
+aggiunto vertice: n14
+aggiunto vertice: n15
+path:4 deep:5
+aggiunto vertice: n16
+aggiunto vertice: n17
+aggiunto vertice: n18
+aggiunto vertice: n19
+path:5 deep:4
+aggiunto vertice: n20
+aggiunto vertice: n21
+aggiunto vertice: n22
+path:6 deep:5
+aggiunto vertice: n23
+aggiunto vertice: n24
+aggiunto vertice: n25
+aggiunto vertice: n26
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+File saved!
+1 - mechanism-d4-b0-d3-b2-d2-b0-d1-b0 - software - 1
+2 - mechanism-d4-b0-d3-b1-d2-b0 - infrastructure - 2
+3 - mechanism-d4-b0-d3-b1 - software - 2
+4 - mechanism-d4-b0 - platform - 2
+5 - mechanism-d4-b0-d3-b0 - platform - 2
+6 - mechanism-d4-b0-d3-b3 - platform - 0
+7 - mechanism-d4-b0-d3-b0-d2-b0 - software - 1
+8 - mechanism-d4-b0-d3-b0-d2-b1 - software - 2
+9 - mechanism-d4-b0-d3-b2 - infrastructure - 0
+10 - mechanism-d4-b0-d3-b1-d2-b1 - software - 3
+11 - mechanism-d4-b0-d3-b2-d2-b0 - platform - 0
+File saved!
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ERROR
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+VECCHIO N:n1    NUOVO N:n647
+VECCHIO N:n23    NUOVO N:n978
+VECCHIO N:n0    NUOVO N:n382
+VECCHIO N:n22    NUOVO N:n592
+VECCHIO N:n21    NUOVO N:n839
+VECCHIO N:n20    NUOVO N:n920
+VECCHIO N:n5    NUOVO N:n958
+VECCHIO N:n4    NUOVO N:n681
+VECCHIO N:n3    NUOVO N:n143
+VECCHIO N:n2    NUOVO N:n625
+VECCHIO N:n9    NUOVO N:n786
+VECCHIO N:n8    NUOVO N:n1025
+VECCHIO N:n7    NUOVO N:n400
+VECCHIO N:n6    NUOVO N:n698
+VECCHIO N:n26    NUOVO N:n980
+VECCHIO N:n24    NUOVO N:n332
+VECCHIO N:n25    NUOVO N:n497
+VECCHIO N:n10    NUOVO N:n884
+VECCHIO N:n12    NUOVO N:n179
+VECCHIO N:n11    NUOVO N:n448
+VECCHIO N:n17    NUOVO N:n723
+VECCHIO N:n18    NUOVO N:n341
+VECCHIO N:n19    NUOVO N:n803
+VECCHIO N:n13    NUOVO N:n496
+VECCHIO N:n14    NUOVO N:n749
+VECCHIO N:n15    NUOVO N:n1018
+VECCHIO N:n16    NUOVO N:n729
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n1025], v[n400], v[n698], v[n958], v[n382]], [v[n179], v[n448], v[n884], v[n786], v[n382]], [v[n980], v[n497], v[n332], v[n978], v[n382]], [v[n681], v[n143], v[n625], v[n647], v[n382]], [v[n1018], v[n749], v[n496], v[n382]], [v[n803], v[n341], v[n723], v[n729], v[n382]], [v[n592], v[n839], v[n920], v[n382]]]
+CREATED GRAPH IN RAM
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+.
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+............
+Compatible after 4855 permutations
+Template paths:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+INSTANCE paths:[[v[n592], v[n839], v[n920], v[n382]], [v[n803], v[n341], v[n723], v[n729], v[n382]], [v[n1018], v[n749], v[n496], v[n382]], [v[n980], v[n497], v[n332], v[n978], v[n382]], [v[n681], v[n143], v[n625], v[n647], v[n382]], [v[n1025], v[n400], v[n698], v[n958], v[n382]], [v[n179], v[n448], v[n884], v[n786], v[n382]]]
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+Controllo --> vtemplate=n22 vi dal bind originale -->n592 v mappata -->n592
+Controllo --> vtemplate=n21 vi dal bind originale -->n839 v mappata -->n839
+Controllo --> vtemplate=n20 vi dal bind originale -->n920 v mappata -->n920
+Controllo --> vtemplate=n0 vi dal bind originale -->n382 v mappata -->n382
+Controllo --> vtemplate=n19 vi dal bind originale -->n803 v mappata -->n803
+Controllo --> vtemplate=n18 vi dal bind originale -->n341 v mappata -->n341
+Controllo --> vtemplate=n17 vi dal bind originale -->n723 v mappata -->n723
+Controllo --> vtemplate=n16 vi dal bind originale -->n729 v mappata -->n729
+Controllo --> vtemplate=n0 vi dal bind originale -->n382 v mappata -->n382
+Controllo --> vtemplate=n15 vi dal bind originale -->n1018 v mappata -->n1018
+Controllo --> vtemplate=n14 vi dal bind originale -->n749 v mappata -->n749
+Controllo --> vtemplate=n13 vi dal bind originale -->n496 v mappata -->n496
+Controllo --> vtemplate=n0 vi dal bind originale -->n382 v mappata -->n382
+Controllo --> vtemplate=n26 vi dal bind originale -->n980 v mappata -->n980
+Controllo --> vtemplate=n25 vi dal bind originale -->n497 v mappata -->n497
+Controllo --> vtemplate=n24 vi dal bind originale -->n332 v mappata -->n332
+Controllo --> vtemplate=n23 vi dal bind originale -->n978 v mappata -->n978
+Controllo --> vtemplate=n0 vi dal bind originale -->n382 v mappata -->n382
+Controllo --> vtemplate=n4 vi dal bind originale -->n681 v mappata -->n681
+Controllo --> vtemplate=n3 vi dal bind originale -->n143 v mappata -->n143
+Controllo --> vtemplate=n2 vi dal bind originale -->n625 v mappata -->n625
+Controllo --> vtemplate=n1 vi dal bind originale -->n647 v mappata -->n647
+Controllo --> vtemplate=n0 vi dal bind originale -->n382 v mappata -->n382
+Controllo --> vtemplate=n8 vi dal bind originale -->n1025 v mappata -->n1025
+Controllo --> vtemplate=n7 vi dal bind originale -->n400 v mappata -->n400
+Controllo --> vtemplate=n6 vi dal bind originale -->n698 v mappata -->n698
+Controllo --> vtemplate=n5 vi dal bind originale -->n958 v mappata -->n958
+Controllo --> vtemplate=n0 vi dal bind originale -->n382 v mappata -->n382
+Controllo --> vtemplate=n12 vi dal bind originale -->n179 v mappata -->n179
+Controllo --> vtemplate=n11 vi dal bind originale -->n448 v mappata -->n448
+Controllo --> vtemplate=n10 vi dal bind originale -->n884 v mappata -->n884
+Controllo --> vtemplate=n9 vi dal bind originale -->n786 v mappata -->n786
+Controllo --> vtemplate=n0 vi dal bind originale -->n382 v mappata -->n382
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Created Instance from template
+Property OLD: NEW:null
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/TEST_PAPER/CM-7/TemplateEvidence.xml
+PATHS
+PASSIAMO ALLE EVIDENZE
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+
+
+
+
+
+*******************************************************************************
+NODO RADICE ISTANCE:n382
+VECCHIO NODEO:n23	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n978	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n1	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n647	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n22	m:mechanism-d4-b0	 NUOVO NODO:n592	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n0	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n382	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n21	m:mechanism-d4-b0-d3-b2-d2-b0	 NUOVO NODO:n839	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n20	m:mechanism-d4-b0-d3-b1	 NUOVO NODO:n920	m:mechanism-d4-b0-d3-b1
+VECCHIO NODEO:n5	m:mechanism-d4-b0	 NUOVO NODO:n958	m:mechanism-d4-b0-d3-b0
+VECCHIO NODEO:n4	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n681	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n3	m:mechanism-d4-b0	 NUOVO NODO:n143	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n2	m:mechanism-d4-b0	 NUOVO NODO:n625	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n9	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n786	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n8	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n1025	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n7	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n400	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n6	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n698	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n26	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n980	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n24	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n332	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n25	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n497	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n10	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n884	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n12	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n179	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n11	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n448	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n17	m:mechanism-d4-b0-d3-b0	 NUOVO NODO:n723	m:mechanism-d4-b0-d3-b0
+VECCHIO NODEO:n18	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0	 NUOVO NODO:n341	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n19	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n803	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n13	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n496	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n14	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n749	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n15	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n1018	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n16	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n729	m:mechanism-d4-b0-d3-b2
+
+
+
+***********
+T Percorso0:[v[n22], v[n21], v[n20], v[n0]]
+I Percorso6:[v[n592], v[n839], v[n920], v[n382]]
+
+T Percorso1:[v[n19], v[n18], v[n17], v[n16], v[n0]]
+I Percorso5:[v[n803], v[n341], v[n723], v[n729], v[n382]]
+
+T Percorso2:[v[n15], v[n14], v[n13], v[n0]]
+I Percorso4:[v[n1018], v[n749], v[n496], v[n382]]
+
+T Percorso3:[v[n26], v[n25], v[n24], v[n23], v[n0]]
+I Percorso2:[v[n980], v[n497], v[n332], v[n978], v[n382]]
+
+T Percorso4:[v[n4], v[n3], v[n2], v[n1], v[n0]]
+I Percorso1:[v[n681], v[n143], v[n625], v[n647], v[n382]]
+
+T Percorso5:[v[n8], v[n7], v[n6], v[n5], v[n0]]
+I Percorso3:[v[n1025], v[n400], v[n698], v[n958], v[n382]]
+
+T Percorso6:[v[n12], v[n11], v[n10], v[n9], v[n0]]
+I Percorso0:[v[n179], v[n448], v[n884], v[n786], v[n382]]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ERROR
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+VECCHIO N:n1    NUOVO N:n634
+VECCHIO N:n23    NUOVO N:n387
+VECCHIO N:n0    NUOVO N:n619
+VECCHIO N:n22    NUOVO N:n316
+VECCHIO N:n21    NUOVO N:n43
+VECCHIO N:n20    NUOVO N:n973
+VECCHIO N:n5    NUOVO N:n326
+VECCHIO N:n4    NUOVO N:n75
+VECCHIO N:n3    NUOVO N:n728
+VECCHIO N:n2    NUOVO N:n618
+VECCHIO N:n9    NUOVO N:n345
+VECCHIO N:n8    NUOVO N:n574
+VECCHIO N:n7    NUOVO N:n586
+VECCHIO N:n6    NUOVO N:n736
+VECCHIO N:n26    NUOVO N:n547
+VECCHIO N:n24    NUOVO N:n118
+VECCHIO N:n25    NUOVO N:n478
+VECCHIO N:n10    NUOVO N:n532
+VECCHIO N:n12    NUOVO N:n123
+VECCHIO N:n11    NUOVO N:n602
+VECCHIO N:n17    NUOVO N:n473
+VECCHIO N:n18    NUOVO N:n564
+VECCHIO N:n19    NUOVO N:n643
+VECCHIO N:n13    NUOVO N:n431
+VECCHIO N:n14    NUOVO N:n1002
+VECCHIO N:n15    NUOVO N:n829
+VECCHIO N:n16    NUOVO N:n217
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n574], v[n586], v[n736], v[n326], v[n619]], [v[n123], v[n602], v[n532], v[n345], v[n619]], [v[n547], v[n478], v[n118], v[n387], v[n619]], [v[n75], v[n728], v[n618], v[n634], v[n619]], [v[n829], v[n1002], v[n431], v[n619]], [v[n643], v[n564], v[n473], v[n217], v[n619]], [v[n316], v[n43], v[n973], v[n619]]]
+CREATED GRAPH IN RAM
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+.
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+............
+Compatible after 4855 permutations
+Template paths:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+INSTANCE paths:[[v[n316], v[n43], v[n973], v[n619]], [v[n643], v[n564], v[n473], v[n217], v[n619]], [v[n829], v[n1002], v[n431], v[n619]], [v[n547], v[n478], v[n118], v[n387], v[n619]], [v[n75], v[n728], v[n618], v[n634], v[n619]], [v[n574], v[n586], v[n736], v[n326], v[n619]], [v[n123], v[n602], v[n532], v[n345], v[n619]]]
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+Controllo --> vtemplate=n22 vi dal bind originale -->n316 v mappata -->n316
+Controllo --> vtemplate=n21 vi dal bind originale -->n43 v mappata -->n43
+Controllo --> vtemplate=n20 vi dal bind originale -->n973 v mappata -->n973
+Controllo --> vtemplate=n0 vi dal bind originale -->n619 v mappata -->n619
+Controllo --> vtemplate=n19 vi dal bind originale -->n643 v mappata -->n643
+Controllo --> vtemplate=n18 vi dal bind originale -->n564 v mappata -->n564
+Controllo --> vtemplate=n17 vi dal bind originale -->n473 v mappata -->n473
+Controllo --> vtemplate=n16 vi dal bind originale -->n217 v mappata -->n217
+Controllo --> vtemplate=n0 vi dal bind originale -->n619 v mappata -->n619
+Controllo --> vtemplate=n15 vi dal bind originale -->n829 v mappata -->n829
+Controllo --> vtemplate=n14 vi dal bind originale -->n1002 v mappata -->n1002
+Controllo --> vtemplate=n13 vi dal bind originale -->n431 v mappata -->n431
+Controllo --> vtemplate=n0 vi dal bind originale -->n619 v mappata -->n619
+Controllo --> vtemplate=n26 vi dal bind originale -->n547 v mappata -->n547
+Controllo --> vtemplate=n25 vi dal bind originale -->n478 v mappata -->n478
+Controllo --> vtemplate=n24 vi dal bind originale -->n118 v mappata -->n118
+Controllo --> vtemplate=n23 vi dal bind originale -->n387 v mappata -->n387
+Controllo --> vtemplate=n0 vi dal bind originale -->n619 v mappata -->n619
+Controllo --> vtemplate=n4 vi dal bind originale -->n75 v mappata -->n75
+Controllo --> vtemplate=n3 vi dal bind originale -->n728 v mappata -->n728
+Controllo --> vtemplate=n2 vi dal bind originale -->n618 v mappata -->n618
+Controllo --> vtemplate=n1 vi dal bind originale -->n634 v mappata -->n634
+Controllo --> vtemplate=n0 vi dal bind originale -->n619 v mappata -->n619
+Controllo --> vtemplate=n8 vi dal bind originale -->n574 v mappata -->n574
+Controllo --> vtemplate=n7 vi dal bind originale -->n586 v mappata -->n586
+Controllo --> vtemplate=n6 vi dal bind originale -->n736 v mappata -->n736
+Controllo --> vtemplate=n5 vi dal bind originale -->n326 v mappata -->n326
+Controllo --> vtemplate=n0 vi dal bind originale -->n619 v mappata -->n619
+Controllo --> vtemplate=n12 vi dal bind originale -->n123 v mappata -->n123
+Controllo --> vtemplate=n11 vi dal bind originale -->n602 v mappata -->n602
+Controllo --> vtemplate=n10 vi dal bind originale -->n532 v mappata -->n532
+Controllo --> vtemplate=n9 vi dal bind originale -->n345 v mappata -->n345
+Controllo --> vtemplate=n0 vi dal bind originale -->n619 v mappata -->n619
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Created Instance from template
+Property OLD: NEW:null
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/TEST_PAPER/CM-7/TemplateEvidence.xml
+PATHS
+PASSIAMO ALLE EVIDENZE
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+
+
+
+
+
+*******************************************************************************
+NODO RADICE ISTANCE:n619
+VECCHIO NODEO:n23	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n387	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n1	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n634	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n22	m:mechanism-d4-b0	 NUOVO NODO:n316	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n0	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n619	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n21	m:mechanism-d4-b0-d3-b2-d2-b0	 NUOVO NODO:n43	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n20	m:mechanism-d4-b0-d3-b1	 NUOVO NODO:n973	m:mechanism-d4-b0-d3-b1
+VECCHIO NODEO:n5	m:mechanism-d4-b0	 NUOVO NODO:n326	m:mechanism-d4-b0-d3-b1
+VECCHIO NODEO:n4	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n75	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n3	m:mechanism-d4-b0	 NUOVO NODO:n728	m:mechanism-d4-b0-d3-b0
+VECCHIO NODEO:n2	m:mechanism-d4-b0	 NUOVO NODO:n618	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n9	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n345	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n8	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n574	m:mechanism-d4-b0-d3-b2
+VECCHIO NODEO:n7	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n586	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n6	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n736	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n26	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n547	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n24	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n118	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n25	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n478	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n10	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n532	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n12	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n123	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n11	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n602	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n17	m:mechanism-d4-b0-d3-b0	 NUOVO NODO:n473	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n18	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0	 NUOVO NODO:n564	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n19	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n643	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n13	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n431	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n14	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n1002	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n15	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n829	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n16	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n217	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+
+
+
+***********
+T Percorso0:[v[n22], v[n21], v[n20], v[n0]]
+I Percorso6:[v[n316], v[n43], v[n973], v[n619]]
+
+T Percorso1:[v[n19], v[n18], v[n17], v[n16], v[n0]]
+I Percorso5:[v[n643], v[n564], v[n473], v[n217], v[n619]]
+
+T Percorso2:[v[n15], v[n14], v[n13], v[n0]]
+I Percorso4:[v[n829], v[n1002], v[n431], v[n619]]
+
+T Percorso3:[v[n26], v[n25], v[n24], v[n23], v[n0]]
+I Percorso2:[v[n547], v[n478], v[n118], v[n387], v[n619]]
+
+T Percorso4:[v[n4], v[n3], v[n2], v[n1], v[n0]]
+I Percorso1:[v[n75], v[n728], v[n618], v[n634], v[n619]]
+
+T Percorso5:[v[n8], v[n7], v[n6], v[n5], v[n0]]
+I Percorso3:[v[n574], v[n586], v[n736], v[n326], v[n619]]
+
+T Percorso6:[v[n12], v[n11], v[n10], v[n9], v[n0]]
+I Percorso0:[v[n123], v[n602], v[n532], v[n345], v[n619]]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ERROR
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+VECCHIO N:n1    NUOVO N:n561
+VECCHIO N:n23    NUOVO N:n487
+VECCHIO N:n0    NUOVO N:n224
+VECCHIO N:n22    NUOVO N:n228
+VECCHIO N:n21    NUOVO N:n225
+VECCHIO N:n20    NUOVO N:n149
+VECCHIO N:n5    NUOVO N:n896
+VECCHIO N:n4    NUOVO N:n403
+VECCHIO N:n3    NUOVO N:n328
+VECCHIO N:n2    NUOVO N:n670
+VECCHIO N:n9    NUOVO N:n826
+VECCHIO N:n8    NUOVO N:n448
+VECCHIO N:n7    NUOVO N:n517
+VECCHIO N:n6    NUOVO N:n1004
+VECCHIO N:n26    NUOVO N:n71
+VECCHIO N:n24    NUOVO N:n257
+VECCHIO N:n25    NUOVO N:n497
+VECCHIO N:n10    NUOVO N:n245
+VECCHIO N:n12    NUOVO N:n337
+VECCHIO N:n11    NUOVO N:n911
+VECCHIO N:n17    NUOVO N:n480
+VECCHIO N:n18    NUOVO N:n791
+VECCHIO N:n19    NUOVO N:n697
+VECCHIO N:n13    NUOVO N:n395
+VECCHIO N:n14    NUOVO N:n1007
+VECCHIO N:n15    NUOVO N:n418
+VECCHIO N:n16    NUOVO N:n988
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n337], v[n911], v[n245], v[n826], v[n224]], [v[n403], v[n328], v[n670], v[n561], v[n224]], [v[n448], v[n517], v[n1004], v[n896], v[n224]], [v[n418], v[n1007], v[n395], v[n224]], [v[n71], v[n497], v[n257], v[n487], v[n224]], [v[n228], v[n225], v[n149], v[n224]], [v[n697], v[n791], v[n480], v[n988], v[n224]]]
+CREATED GRAPH IN RAM
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+.
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+........
+Compatible after 4235 permutations
+Template paths:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+INSTANCE paths:[[v[n228], v[n225], v[n149], v[n224]], [v[n697], v[n791], v[n480], v[n988], v[n224]], [v[n418], v[n1007], v[n395], v[n224]], [v[n71], v[n497], v[n257], v[n487], v[n224]], [v[n403], v[n328], v[n670], v[n561], v[n224]], [v[n448], v[n517], v[n1004], v[n896], v[n224]], [v[n337], v[n911], v[n245], v[n826], v[n224]]]
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+Controllo --> vtemplate=n22 vi dal bind originale -->n228 v mappata -->n228
+Controllo --> vtemplate=n21 vi dal bind originale -->n225 v mappata -->n225
+Controllo --> vtemplate=n20 vi dal bind originale -->n149 v mappata -->n149
+Controllo --> vtemplate=n0 vi dal bind originale -->n224 v mappata -->n224
+Controllo --> vtemplate=n19 vi dal bind originale -->n697 v mappata -->n697
+Controllo --> vtemplate=n18 vi dal bind originale -->n791 v mappata -->n791
+Controllo --> vtemplate=n17 vi dal bind originale -->n480 v mappata -->n480
+Controllo --> vtemplate=n16 vi dal bind originale -->n988 v mappata -->n988
+Controllo --> vtemplate=n0 vi dal bind originale -->n224 v mappata -->n224
+Controllo --> vtemplate=n15 vi dal bind originale -->n418 v mappata -->n418
+Controllo --> vtemplate=n14 vi dal bind originale -->n1007 v mappata -->n1007
+Controllo --> vtemplate=n13 vi dal bind originale -->n395 v mappata -->n395
+Controllo --> vtemplate=n0 vi dal bind originale -->n224 v mappata -->n224
+Controllo --> vtemplate=n26 vi dal bind originale -->n71 v mappata -->n71
+Controllo --> vtemplate=n25 vi dal bind originale -->n497 v mappata -->n497
+Controllo --> vtemplate=n24 vi dal bind originale -->n257 v mappata -->n257
+Controllo --> vtemplate=n23 vi dal bind originale -->n487 v mappata -->n487
+Controllo --> vtemplate=n0 vi dal bind originale -->n224 v mappata -->n224
+Controllo --> vtemplate=n4 vi dal bind originale -->n403 v mappata -->n403
+Controllo --> vtemplate=n3 vi dal bind originale -->n328 v mappata -->n328
+Controllo --> vtemplate=n2 vi dal bind originale -->n670 v mappata -->n670
+Controllo --> vtemplate=n1 vi dal bind originale -->n561 v mappata -->n561
+Controllo --> vtemplate=n0 vi dal bind originale -->n224 v mappata -->n224
+Controllo --> vtemplate=n8 vi dal bind originale -->n448 v mappata -->n448
+Controllo --> vtemplate=n7 vi dal bind originale -->n517 v mappata -->n517
+Controllo --> vtemplate=n6 vi dal bind originale -->n1004 v mappata -->n1004
+Controllo --> vtemplate=n5 vi dal bind originale -->n896 v mappata -->n896
+Controllo --> vtemplate=n0 vi dal bind originale -->n224 v mappata -->n224
+Controllo --> vtemplate=n12 vi dal bind originale -->n337 v mappata -->n337
+Controllo --> vtemplate=n11 vi dal bind originale -->n911 v mappata -->n911
+Controllo --> vtemplate=n10 vi dal bind originale -->n245 v mappata -->n245
+Controllo --> vtemplate=n9 vi dal bind originale -->n826 v mappata -->n826
+Controllo --> vtemplate=n0 vi dal bind originale -->n224 v mappata -->n224
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Created Instance from template
+Property OLD: NEW:null
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/TEST_PAPER/CM-7/TemplateEvidence.xml
+PATHS
+PASSIAMO ALLE EVIDENZE
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+
+
+
+
+
+*******************************************************************************
+NODO RADICE ISTANCE:n224
+VECCHIO NODEO:n23	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n487	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n1	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n561	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n22	m:mechanism-d4-b0	 NUOVO NODO:n228	m:mechanism-d4-b0-d3-b1
+VECCHIO NODEO:n0	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n224	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n21	m:mechanism-d4-b0-d3-b2-d2-b0	 NUOVO NODO:n225	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n20	m:mechanism-d4-b0-d3-b1	 NUOVO NODO:n149	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n5	m:mechanism-d4-b0	 NUOVO NODO:n896	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n4	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n403	m:mechanism-d4-b0-d3-b2
+VECCHIO NODEO:n3	m:mechanism-d4-b0	 NUOVO NODO:n328	m:mechanism-d4-b0-d3-b2
+VECCHIO NODEO:n2	m:mechanism-d4-b0	 NUOVO NODO:n670	m:mechanism-d4-b0-d3-b1
+VECCHIO NODEO:n9	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n826	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n8	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n448	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n7	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n517	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n6	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n1004	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n26	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n71	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n24	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n257	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n25	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n497	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n10	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n245	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n12	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n337	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n11	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n911	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n17	m:mechanism-d4-b0-d3-b0	 NUOVO NODO:n480	m:mechanism-d4-b0-d3-b0
+VECCHIO NODEO:n18	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0	 NUOVO NODO:n791	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n19	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n697	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n13	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n395	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n14	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n1007	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n15	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n418	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n16	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n988	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+
+
+
+***********
+T Percorso0:[v[n22], v[n21], v[n20], v[n0]]
+I Percorso5:[v[n228], v[n225], v[n149], v[n224]]
+
+T Percorso1:[v[n19], v[n18], v[n17], v[n16], v[n0]]
+I Percorso6:[v[n697], v[n791], v[n480], v[n988], v[n224]]
+
+T Percorso2:[v[n15], v[n14], v[n13], v[n0]]
+I Percorso3:[v[n418], v[n1007], v[n395], v[n224]]
+
+T Percorso3:[v[n26], v[n25], v[n24], v[n23], v[n0]]
+I Percorso0:[v[n71], v[n497], v[n257], v[n487], v[n224]]
+
+T Percorso4:[v[n4], v[n3], v[n2], v[n1], v[n0]]
+I Percorso4:[v[n403], v[n328], v[n670], v[n561], v[n224]]
+
+T Percorso5:[v[n8], v[n7], v[n6], v[n5], v[n0]]
+I Percorso2:[v[n448], v[n517], v[n1004], v[n896], v[n224]]
+
+T Percorso6:[v[n12], v[n11], v[n10], v[n9], v[n0]]
+I Percorso1:[v[n337], v[n911], v[n245], v[n826], v[n224]]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ERROR
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+VECCHIO N:n1    NUOVO N:n896
+VECCHIO N:n23    NUOVO N:n247
+VECCHIO N:n0    NUOVO N:n962
+VECCHIO N:n22    NUOVO N:n935
+VECCHIO N:n21    NUOVO N:n542
+VECCHIO N:n20    NUOVO N:n835
+VECCHIO N:n5    NUOVO N:n136
+VECCHIO N:n4    NUOVO N:n292
+VECCHIO N:n3    NUOVO N:n146
+VECCHIO N:n2    NUOVO N:n859
+VECCHIO N:n9    NUOVO N:n683
+VECCHIO N:n8    NUOVO N:n741
+VECCHIO N:n7    NUOVO N:n89
+VECCHIO N:n6    NUOVO N:n880
+VECCHIO N:n26    NUOVO N:n317
+VECCHIO N:n24    NUOVO N:n445
+VECCHIO N:n25    NUOVO N:n211
+VECCHIO N:n10    NUOVO N:n845
+VECCHIO N:n12    NUOVO N:n350
+VECCHIO N:n11    NUOVO N:n123
+VECCHIO N:n17    NUOVO N:n980
+VECCHIO N:n18    NUOVO N:n138
+VECCHIO N:n19    NUOVO N:n218
+VECCHIO N:n13    NUOVO N:n937
+VECCHIO N:n14    NUOVO N:n484
+VECCHIO N:n15    NUOVO N:n868
+VECCHIO N:n16    NUOVO N:n301
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n218], v[n138], v[n980], v[n301], v[n962]], [v[n935], v[n542], v[n835], v[n962]], [v[n317], v[n211], v[n445], v[n247], v[n962]], [v[n868], v[n484], v[n937], v[n962]], [v[n292], v[n146], v[n859], v[n896], v[n962]], [v[n741], v[n89], v[n880], v[n136], v[n962]], [v[n350], v[n123], v[n845], v[n683], v[n962]]]
+CREATED GRAPH IN RAM
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+.
+.............................................................
+.............................................................
+..............................
+Compatible after 744 permutations
+Template paths:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+INSTANCE paths:[[v[n935], v[n542], v[n835], v[n962]], [v[n218], v[n138], v[n980], v[n301], v[n962]], [v[n868], v[n484], v[n937], v[n962]], [v[n317], v[n211], v[n445], v[n247], v[n962]], [v[n292], v[n146], v[n859], v[n896], v[n962]], [v[n741], v[n89], v[n880], v[n136], v[n962]], [v[n350], v[n123], v[n845], v[n683], v[n962]]]
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+Controllo --> vtemplate=n22 vi dal bind originale -->n935 v mappata -->n935
+Controllo --> vtemplate=n21 vi dal bind originale -->n542 v mappata -->n542
+Controllo --> vtemplate=n20 vi dal bind originale -->n835 v mappata -->n835
+Controllo --> vtemplate=n0 vi dal bind originale -->n962 v mappata -->n962
+Controllo --> vtemplate=n19 vi dal bind originale -->n218 v mappata -->n218
+Controllo --> vtemplate=n18 vi dal bind originale -->n138 v mappata -->n138
+Controllo --> vtemplate=n17 vi dal bind originale -->n980 v mappata -->n980
+Controllo --> vtemplate=n16 vi dal bind originale -->n301 v mappata -->n301
+Controllo --> vtemplate=n0 vi dal bind originale -->n962 v mappata -->n962
+Controllo --> vtemplate=n15 vi dal bind originale -->n868 v mappata -->n868
+Controllo --> vtemplate=n14 vi dal bind originale -->n484 v mappata -->n484
+Controllo --> vtemplate=n13 vi dal bind originale -->n937 v mappata -->n937
+Controllo --> vtemplate=n0 vi dal bind originale -->n962 v mappata -->n962
+Controllo --> vtemplate=n26 vi dal bind originale -->n317 v mappata -->n317
+Controllo --> vtemplate=n25 vi dal bind originale -->n211 v mappata -->n211
+Controllo --> vtemplate=n24 vi dal bind originale -->n445 v mappata -->n445
+Controllo --> vtemplate=n23 vi dal bind originale -->n247 v mappata -->n247
+Controllo --> vtemplate=n0 vi dal bind originale -->n962 v mappata -->n962
+Controllo --> vtemplate=n4 vi dal bind originale -->n292 v mappata -->n292
+Controllo --> vtemplate=n3 vi dal bind originale -->n146 v mappata -->n146
+Controllo --> vtemplate=n2 vi dal bind originale -->n859 v mappata -->n859
+Controllo --> vtemplate=n1 vi dal bind originale -->n896 v mappata -->n896
+Controllo --> vtemplate=n0 vi dal bind originale -->n962 v mappata -->n962
+Controllo --> vtemplate=n8 vi dal bind originale -->n741 v mappata -->n741
+Controllo --> vtemplate=n7 vi dal bind originale -->n89 v mappata -->n89
+Controllo --> vtemplate=n6 vi dal bind originale -->n880 v mappata -->n880
+Controllo --> vtemplate=n5 vi dal bind originale -->n136 v mappata -->n136
+Controllo --> vtemplate=n0 vi dal bind originale -->n962 v mappata -->n962
+Controllo --> vtemplate=n12 vi dal bind originale -->n350 v mappata -->n350
+Controllo --> vtemplate=n11 vi dal bind originale -->n123 v mappata -->n123
+Controllo --> vtemplate=n10 vi dal bind originale -->n845 v mappata -->n845
+Controllo --> vtemplate=n9 vi dal bind originale -->n683 v mappata -->n683
+Controllo --> vtemplate=n0 vi dal bind originale -->n962 v mappata -->n962
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Created Instance from template
+Property OLD: NEW:null
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/TEST_PAPER/CM-7/TemplateEvidence.xml
+PATHS
+PASSIAMO ALLE EVIDENZE
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+
+
+
+
+
+*******************************************************************************
+NODO RADICE ISTANCE:n962
+VECCHIO NODEO:n23	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n247	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n1	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n896	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n22	m:mechanism-d4-b0	 NUOVO NODO:n935	m:mechanism-d4-b0-d3-b1
+VECCHIO NODEO:n0	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n962	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n21	m:mechanism-d4-b0-d3-b2-d2-b0	 NUOVO NODO:n542	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n20	m:mechanism-d4-b0-d3-b1	 NUOVO NODO:n835	m:mechanism-d4-b0-d3-b1
+VECCHIO NODEO:n5	m:mechanism-d4-b0	 NUOVO NODO:n136	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n4	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n292	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n3	m:mechanism-d4-b0	 NUOVO NODO:n146	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n2	m:mechanism-d4-b0	 NUOVO NODO:n859	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n9	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n683	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n8	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n741	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n7	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n89	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n6	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n880	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n26	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n317	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n24	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n445	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n25	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n211	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n10	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n845	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n12	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n350	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n11	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n123	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n17	m:mechanism-d4-b0-d3-b0	 NUOVO NODO:n980	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n18	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0	 NUOVO NODO:n138	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n19	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n218	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n13	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n937	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n14	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n484	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n15	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n868	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n16	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n301	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+
+
+
+***********
+T Percorso0:[v[n22], v[n21], v[n20], v[n0]]
+I Percorso1:[v[n935], v[n542], v[n835], v[n962]]
+
+T Percorso1:[v[n19], v[n18], v[n17], v[n16], v[n0]]
+I Percorso0:[v[n218], v[n138], v[n980], v[n301], v[n962]]
+
+T Percorso2:[v[n15], v[n14], v[n13], v[n0]]
+I Percorso3:[v[n868], v[n484], v[n937], v[n962]]
+
+T Percorso3:[v[n26], v[n25], v[n24], v[n23], v[n0]]
+I Percorso2:[v[n317], v[n211], v[n445], v[n247], v[n962]]
+
+T Percorso4:[v[n4], v[n3], v[n2], v[n1], v[n0]]
+I Percorso4:[v[n292], v[n146], v[n859], v[n896], v[n962]]
+
+T Percorso5:[v[n8], v[n7], v[n6], v[n5], v[n0]]
+I Percorso6:[v[n741], v[n89], v[n880], v[n136], v[n962]]
+
+T Percorso6:[v[n12], v[n11], v[n10], v[n9], v[n0]]
+I Percorso5:[v[n350], v[n123], v[n845], v[n683], v[n962]]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ERROR
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+VECCHIO N:n1    NUOVO N:n290
+VECCHIO N:n23    NUOVO N:n165
+VECCHIO N:n0    NUOVO N:n818
+VECCHIO N:n22    NUOVO N:n638
+VECCHIO N:n21    NUOVO N:n801
+VECCHIO N:n20    NUOVO N:n532
+VECCHIO N:n5    NUOVO N:n131
+VECCHIO N:n4    NUOVO N:n198
+VECCHIO N:n3    NUOVO N:n839
+VECCHIO N:n2    NUOVO N:n317
+VECCHIO N:n9    NUOVO N:n239
+VECCHIO N:n8    NUOVO N:n467
+VECCHIO N:n7    NUOVO N:n873
+VECCHIO N:n6    NUOVO N:n81
+VECCHIO N:n26    NUOVO N:n751
+VECCHIO N:n24    NUOVO N:n152
+VECCHIO N:n25    NUOVO N:n727
+VECCHIO N:n10    NUOVO N:n221
+VECCHIO N:n12    NUOVO N:n501
+VECCHIO N:n11    NUOVO N:n457
+VECCHIO N:n17    NUOVO N:n181
+VECCHIO N:n18    NUOVO N:n707
+VECCHIO N:n19    NUOVO N:n389
+VECCHIO N:n13    NUOVO N:n143
+VECCHIO N:n14    NUOVO N:n859
+VECCHIO N:n15    NUOVO N:n993
+VECCHIO N:n16    NUOVO N:n974
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n501], v[n457], v[n221], v[n239], v[n818]], [v[n751], v[n727], v[n152], v[n165], v[n818]], [v[n993], v[n859], v[n143], v[n818]], [v[n389], v[n707], v[n181], v[n974], v[n818]], [v[n638], v[n801], v[n532], v[n818]], [v[n467], v[n873], v[n81], v[n131], v[n818]], [v[n198], v[n839], v[n317], v[n290], v[n818]]]
+CREATED GRAPH IN RAM
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+.
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+..........................
+Compatible after 3124 permutations
+Template paths:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+INSTANCE paths:[[v[n638], v[n801], v[n532], v[n818]], [v[n389], v[n707], v[n181], v[n974], v[n818]], [v[n993], v[n859], v[n143], v[n818]], [v[n751], v[n727], v[n152], v[n165], v[n818]], [v[n198], v[n839], v[n317], v[n290], v[n818]], [v[n467], v[n873], v[n81], v[n131], v[n818]], [v[n501], v[n457], v[n221], v[n239], v[n818]]]
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+Controllo --> vtemplate=n22 vi dal bind originale -->n638 v mappata -->n638
+Controllo --> vtemplate=n21 vi dal bind originale -->n801 v mappata -->n801
+Controllo --> vtemplate=n20 vi dal bind originale -->n532 v mappata -->n532
+Controllo --> vtemplate=n0 vi dal bind originale -->n818 v mappata -->n818
+Controllo --> vtemplate=n19 vi dal bind originale -->n389 v mappata -->n389
+Controllo --> vtemplate=n18 vi dal bind originale -->n707 v mappata -->n707
+Controllo --> vtemplate=n17 vi dal bind originale -->n181 v mappata -->n181
+Controllo --> vtemplate=n16 vi dal bind originale -->n974 v mappata -->n974
+Controllo --> vtemplate=n0 vi dal bind originale -->n818 v mappata -->n818
+Controllo --> vtemplate=n15 vi dal bind originale -->n993 v mappata -->n993
+Controllo --> vtemplate=n14 vi dal bind originale -->n859 v mappata -->n859
+Controllo --> vtemplate=n13 vi dal bind originale -->n143 v mappata -->n143
+Controllo --> vtemplate=n0 vi dal bind originale -->n818 v mappata -->n818
+Controllo --> vtemplate=n26 vi dal bind originale -->n751 v mappata -->n751
+Controllo --> vtemplate=n25 vi dal bind originale -->n727 v mappata -->n727
+Controllo --> vtemplate=n24 vi dal bind originale -->n152 v mappata -->n152
+Controllo --> vtemplate=n23 vi dal bind originale -->n165 v mappata -->n165
+Controllo --> vtemplate=n0 vi dal bind originale -->n818 v mappata -->n818
+Controllo --> vtemplate=n4 vi dal bind originale -->n198 v mappata -->n198
+Controllo --> vtemplate=n3 vi dal bind originale -->n839 v mappata -->n839
+Controllo --> vtemplate=n2 vi dal bind originale -->n317 v mappata -->n317
+Controllo --> vtemplate=n1 vi dal bind originale -->n290 v mappata -->n290
+Controllo --> vtemplate=n0 vi dal bind originale -->n818 v mappata -->n818
+Controllo --> vtemplate=n8 vi dal bind originale -->n467 v mappata -->n467
+Controllo --> vtemplate=n7 vi dal bind originale -->n873 v mappata -->n873
+Controllo --> vtemplate=n6 vi dal bind originale -->n81 v mappata -->n81
+Controllo --> vtemplate=n5 vi dal bind originale -->n131 v mappata -->n131
+Controllo --> vtemplate=n0 vi dal bind originale -->n818 v mappata -->n818
+Controllo --> vtemplate=n12 vi dal bind originale -->n501 v mappata -->n501
+Controllo --> vtemplate=n11 vi dal bind originale -->n457 v mappata -->n457
+Controllo --> vtemplate=n10 vi dal bind originale -->n221 v mappata -->n221
+Controllo --> vtemplate=n9 vi dal bind originale -->n239 v mappata -->n239
+Controllo --> vtemplate=n0 vi dal bind originale -->n818 v mappata -->n818
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Created Instance from template
+Property OLD: NEW:null
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/TEST_PAPER/CM-7/TemplateEvidence.xml
+PATHS
+PASSIAMO ALLE EVIDENZE
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+
+
+
+
+
+*******************************************************************************
+NODO RADICE ISTANCE:n818
+VECCHIO NODEO:n23	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n165	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n1	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n290	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n22	m:mechanism-d4-b0	 NUOVO NODO:n638	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n0	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n818	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n21	m:mechanism-d4-b0-d3-b2-d2-b0	 NUOVO NODO:n801	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n20	m:mechanism-d4-b0-d3-b1	 NUOVO NODO:n532	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n5	m:mechanism-d4-b0	 NUOVO NODO:n131	m:mechanism-d4-b0-d3-b2
+VECCHIO NODEO:n4	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n198	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n3	m:mechanism-d4-b0	 NUOVO NODO:n839	m:mechanism-d4-b0-d3-b2
+VECCHIO NODEO:n2	m:mechanism-d4-b0	 NUOVO NODO:n317	m:mechanism-d4-b0-d3-b1
+VECCHIO NODEO:n9	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n239	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n8	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n467	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n7	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n873	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n6	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n81	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n26	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n751	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n24	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n152	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n25	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n727	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n10	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n221	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n12	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n501	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n11	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n457	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n17	m:mechanism-d4-b0-d3-b0	 NUOVO NODO:n181	m:mechanism-d4-b0-d3-b0
+VECCHIO NODEO:n18	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0	 NUOVO NODO:n707	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n19	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n389	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n13	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n143	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n14	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n859	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n15	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n993	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n16	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n974	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+
+
+
+***********
+T Percorso0:[v[n22], v[n21], v[n20], v[n0]]
+I Percorso4:[v[n638], v[n801], v[n532], v[n818]]
+
+T Percorso1:[v[n19], v[n18], v[n17], v[n16], v[n0]]
+I Percorso3:[v[n389], v[n707], v[n181], v[n974], v[n818]]
+
+T Percorso2:[v[n15], v[n14], v[n13], v[n0]]
+I Percorso2:[v[n993], v[n859], v[n143], v[n818]]
+
+T Percorso3:[v[n26], v[n25], v[n24], v[n23], v[n0]]
+I Percorso1:[v[n751], v[n727], v[n152], v[n165], v[n818]]
+
+T Percorso4:[v[n4], v[n3], v[n2], v[n1], v[n0]]
+I Percorso6:[v[n198], v[n839], v[n317], v[n290], v[n818]]
+
+T Percorso5:[v[n8], v[n7], v[n6], v[n5], v[n0]]
+I Percorso0:[v[n467], v[n873], v[n81], v[n131], v[n818]]
+
+T Percorso6:[v[n12], v[n11], v[n10], v[n9], v[n0]]
+I Percorso5:[v[n501], v[n457], v[n221], v[n239], v[n818]]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ERROR
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+VECCHIO N:n1    NUOVO N:n274
+VECCHIO N:n23    NUOVO N:n966
+VECCHIO N:n0    NUOVO N:n980
+VECCHIO N:n22    NUOVO N:n707
+VECCHIO N:n21    NUOVO N:n50
+VECCHIO N:n20    NUOVO N:n61
+VECCHIO N:n5    NUOVO N:n244
+VECCHIO N:n4    NUOVO N:n101
+VECCHIO N:n3    NUOVO N:n185
+VECCHIO N:n2    NUOVO N:n702
+VECCHIO N:n9    NUOVO N:n404
+VECCHIO N:n8    NUOVO N:n480
+VECCHIO N:n7    NUOVO N:n704
+VECCHIO N:n6    NUOVO N:n443
+VECCHIO N:n26    NUOVO N:n396
+VECCHIO N:n24    NUOVO N:n1019
+VECCHIO N:n25    NUOVO N:n546
+VECCHIO N:n10    NUOVO N:n657
+VECCHIO N:n12    NUOVO N:n706
+VECCHIO N:n11    NUOVO N:n285
+VECCHIO N:n17    NUOVO N:n941
+VECCHIO N:n18    NUOVO N:n595
+VECCHIO N:n19    NUOVO N:n972
+VECCHIO N:n13    NUOVO N:n423
+VECCHIO N:n14    NUOVO N:n53
+VECCHIO N:n15    NUOVO N:n126
+VECCHIO N:n16    NUOVO N:n574
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n972], v[n595], v[n941], v[n574], v[n980]], [v[n707], v[n50], v[n61], v[n980]], [v[n396], v[n546], v[n1019], v[n966], v[n980]], [v[n126], v[n53], v[n423], v[n980]], [v[n101], v[n185], v[n702], v[n274], v[n980]], [v[n480], v[n704], v[n443], v[n244], v[n980]], [v[n706], v[n285], v[n657], v[n404], v[n980]]]
+CREATED GRAPH IN RAM
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+.
+.............................................................
+.............................................................
+..............................
+Compatible after 744 permutations
+Template paths:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+INSTANCE paths:[[v[n707], v[n50], v[n61], v[n980]], [v[n972], v[n595], v[n941], v[n574], v[n980]], [v[n126], v[n53], v[n423], v[n980]], [v[n396], v[n546], v[n1019], v[n966], v[n980]], [v[n101], v[n185], v[n702], v[n274], v[n980]], [v[n480], v[n704], v[n443], v[n244], v[n980]], [v[n706], v[n285], v[n657], v[n404], v[n980]]]
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+Controllo --> vtemplate=n22 vi dal bind originale -->n707 v mappata -->n707
+Controllo --> vtemplate=n21 vi dal bind originale -->n50 v mappata -->n50
+Controllo --> vtemplate=n20 vi dal bind originale -->n61 v mappata -->n61
+Controllo --> vtemplate=n0 vi dal bind originale -->n980 v mappata -->n980
+Controllo --> vtemplate=n19 vi dal bind originale -->n972 v mappata -->n972
+Controllo --> vtemplate=n18 vi dal bind originale -->n595 v mappata -->n595
+Controllo --> vtemplate=n17 vi dal bind originale -->n941 v mappata -->n941
+Controllo --> vtemplate=n16 vi dal bind originale -->n574 v mappata -->n574
+Controllo --> vtemplate=n0 vi dal bind originale -->n980 v mappata -->n980
+Controllo --> vtemplate=n15 vi dal bind originale -->n126 v mappata -->n126
+Controllo --> vtemplate=n14 vi dal bind originale -->n53 v mappata -->n53
+Controllo --> vtemplate=n13 vi dal bind originale -->n423 v mappata -->n423
+Controllo --> vtemplate=n0 vi dal bind originale -->n980 v mappata -->n980
+Controllo --> vtemplate=n26 vi dal bind originale -->n396 v mappata -->n396
+Controllo --> vtemplate=n25 vi dal bind originale -->n546 v mappata -->n546
+Controllo --> vtemplate=n24 vi dal bind originale -->n1019 v mappata -->n1019
+Controllo --> vtemplate=n23 vi dal bind originale -->n966 v mappata -->n966
+Controllo --> vtemplate=n0 vi dal bind originale -->n980 v mappata -->n980
+Controllo --> vtemplate=n4 vi dal bind originale -->n101 v mappata -->n101
+Controllo --> vtemplate=n3 vi dal bind originale -->n185 v mappata -->n185
+Controllo --> vtemplate=n2 vi dal bind originale -->n702 v mappata -->n702
+Controllo --> vtemplate=n1 vi dal bind originale -->n274 v mappata -->n274
+Controllo --> vtemplate=n0 vi dal bind originale -->n980 v mappata -->n980
+Controllo --> vtemplate=n8 vi dal bind originale -->n480 v mappata -->n480
+Controllo --> vtemplate=n7 vi dal bind originale -->n704 v mappata -->n704
+Controllo --> vtemplate=n6 vi dal bind originale -->n443 v mappata -->n443
+Controllo --> vtemplate=n5 vi dal bind originale -->n244 v mappata -->n244
+Controllo --> vtemplate=n0 vi dal bind originale -->n980 v mappata -->n980
+Controllo --> vtemplate=n12 vi dal bind originale -->n706 v mappata -->n706
+Controllo --> vtemplate=n11 vi dal bind originale -->n285 v mappata -->n285
+Controllo --> vtemplate=n10 vi dal bind originale -->n657 v mappata -->n657
+Controllo --> vtemplate=n9 vi dal bind originale -->n404 v mappata -->n404
+Controllo --> vtemplate=n0 vi dal bind originale -->n980 v mappata -->n980
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Created Instance from template
+Property OLD: NEW:null
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/TEST_PAPER/CM-7/TemplateEvidence.xml
+PATHS
+PASSIAMO ALLE EVIDENZE
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+
+
+
+
+
+*******************************************************************************
+NODO RADICE ISTANCE:n980
+VECCHIO NODEO:n23	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n966	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n1	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n274	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n22	m:mechanism-d4-b0	 NUOVO NODO:n707	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n0	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n980	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n21	m:mechanism-d4-b0-d3-b2-d2-b0	 NUOVO NODO:n50	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n20	m:mechanism-d4-b0-d3-b1	 NUOVO NODO:n61	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n5	m:mechanism-d4-b0	 NUOVO NODO:n244	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n4	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n101	m:mechanism-d4-b0-d3-b2
+VECCHIO NODEO:n3	m:mechanism-d4-b0	 NUOVO NODO:n185	m:mechanism-d4-b0-d3-b2
+VECCHIO NODEO:n2	m:mechanism-d4-b0	 NUOVO NODO:n702	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n9	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n404	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n8	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n480	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n7	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n704	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n6	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n443	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n26	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n396	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n24	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n1019	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n25	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n546	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n10	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n657	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n12	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n706	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n11	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n285	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n17	m:mechanism-d4-b0-d3-b0	 NUOVO NODO:n941	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n18	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0	 NUOVO NODO:n595	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n19	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n972	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n13	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n423	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n14	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n53	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n15	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n126	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n16	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n574	m:mechanism-d4-b0-d3-b2-d2-b0
+
+
+
+***********
+T Percorso0:[v[n22], v[n21], v[n20], v[n0]]
+I Percorso1:[v[n707], v[n50], v[n61], v[n980]]
+
+T Percorso1:[v[n19], v[n18], v[n17], v[n16], v[n0]]
+I Percorso0:[v[n972], v[n595], v[n941], v[n574], v[n980]]
+
+T Percorso2:[v[n15], v[n14], v[n13], v[n0]]
+I Percorso3:[v[n126], v[n53], v[n423], v[n980]]
+
+T Percorso3:[v[n26], v[n25], v[n24], v[n23], v[n0]]
+I Percorso2:[v[n396], v[n546], v[n1019], v[n966], v[n980]]
+
+T Percorso4:[v[n4], v[n3], v[n2], v[n1], v[n0]]
+I Percorso4:[v[n101], v[n185], v[n702], v[n274], v[n980]]
+
+T Percorso5:[v[n8], v[n7], v[n6], v[n5], v[n0]]
+I Percorso6:[v[n480], v[n704], v[n443], v[n244], v[n980]]
+
+T Percorso6:[v[n12], v[n11], v[n10], v[n9], v[n0]]
+I Percorso5:[v[n706], v[n285], v[n657], v[n404], v[n980]]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ERROR
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+VECCHIO N:n1    NUOVO N:n31
+VECCHIO N:n23    NUOVO N:n134
+VECCHIO N:n0    NUOVO N:n893
+VECCHIO N:n22    NUOVO N:n710
+VECCHIO N:n21    NUOVO N:n896
+VECCHIO N:n20    NUOVO N:n334
+VECCHIO N:n5    NUOVO N:n47
+VECCHIO N:n4    NUOVO N:n93
+VECCHIO N:n3    NUOVO N:n126
+VECCHIO N:n2    NUOVO N:n971
+VECCHIO N:n9    NUOVO N:n978
+VECCHIO N:n8    NUOVO N:n423
+VECCHIO N:n7    NUOVO N:n369
+VECCHIO N:n6    NUOVO N:n565
+VECCHIO N:n26    NUOVO N:n88
+VECCHIO N:n24    NUOVO N:n78
+VECCHIO N:n25    NUOVO N:n111
+VECCHIO N:n10    NUOVO N:n240
+VECCHIO N:n12    NUOVO N:n440
+VECCHIO N:n11    NUOVO N:n531
+VECCHIO N:n17    NUOVO N:n792
+VECCHIO N:n18    NUOVO N:n926
+VECCHIO N:n19    NUOVO N:n669
+VECCHIO N:n13    NUOVO N:n312
+VECCHIO N:n14    NUOVO N:n795
+VECCHIO N:n15    NUOVO N:n582
+VECCHIO N:n16    NUOVO N:n850
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n440], v[n531], v[n240], v[n978], v[n893]], [v[n93], v[n126], v[n971], v[n31], v[n893]], [v[n423], v[n369], v[n565], v[n47], v[n893]], [v[n582], v[n795], v[n312], v[n893]], [v[n88], v[n111], v[n78], v[n134], v[n893]], [v[n669], v[n926], v[n792], v[n850], v[n893]], [v[n710], v[n896], v[n334], v[n893]]]
+CREATED GRAPH IN RAM
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+.
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.......
+Compatible after 4832 permutations
+Template paths:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+INSTANCE paths:[[v[n710], v[n896], v[n334], v[n893]], [v[n669], v[n926], v[n792], v[n850], v[n893]], [v[n582], v[n795], v[n312], v[n893]], [v[n88], v[n111], v[n78], v[n134], v[n893]], [v[n93], v[n126], v[n971], v[n31], v[n893]], [v[n423], v[n369], v[n565], v[n47], v[n893]], [v[n440], v[n531], v[n240], v[n978], v[n893]]]
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+Controllo --> vtemplate=n22 vi dal bind originale -->n710 v mappata -->n710
+Controllo --> vtemplate=n21 vi dal bind originale -->n896 v mappata -->n896
+Controllo --> vtemplate=n20 vi dal bind originale -->n334 v mappata -->n334
+Controllo --> vtemplate=n0 vi dal bind originale -->n893 v mappata -->n893
+Controllo --> vtemplate=n19 vi dal bind originale -->n669 v mappata -->n669
+Controllo --> vtemplate=n18 vi dal bind originale -->n926 v mappata -->n926
+Controllo --> vtemplate=n17 vi dal bind originale -->n792 v mappata -->n792
+Controllo --> vtemplate=n16 vi dal bind originale -->n850 v mappata -->n850
+Controllo --> vtemplate=n0 vi dal bind originale -->n893 v mappata -->n893
+Controllo --> vtemplate=n15 vi dal bind originale -->n582 v mappata -->n582
+Controllo --> vtemplate=n14 vi dal bind originale -->n795 v mappata -->n795
+Controllo --> vtemplate=n13 vi dal bind originale -->n312 v mappata -->n312
+Controllo --> vtemplate=n0 vi dal bind originale -->n893 v mappata -->n893
+Controllo --> vtemplate=n26 vi dal bind originale -->n88 v mappata -->n88
+Controllo --> vtemplate=n25 vi dal bind originale -->n111 v mappata -->n111
+Controllo --> vtemplate=n24 vi dal bind originale -->n78 v mappata -->n78
+Controllo --> vtemplate=n23 vi dal bind originale -->n134 v mappata -->n134
+Controllo --> vtemplate=n0 vi dal bind originale -->n893 v mappata -->n893
+Controllo --> vtemplate=n4 vi dal bind originale -->n93 v mappata -->n93
+Controllo --> vtemplate=n3 vi dal bind originale -->n126 v mappata -->n126
+Controllo --> vtemplate=n2 vi dal bind originale -->n971 v mappata -->n971
+Controllo --> vtemplate=n1 vi dal bind originale -->n31 v mappata -->n31
+Controllo --> vtemplate=n0 vi dal bind originale -->n893 v mappata -->n893
+Controllo --> vtemplate=n8 vi dal bind originale -->n423 v mappata -->n423
+Controllo --> vtemplate=n7 vi dal bind originale -->n369 v mappata -->n369
+Controllo --> vtemplate=n6 vi dal bind originale -->n565 v mappata -->n565
+Controllo --> vtemplate=n5 vi dal bind originale -->n47 v mappata -->n47
+Controllo --> vtemplate=n0 vi dal bind originale -->n893 v mappata -->n893
+Controllo --> vtemplate=n12 vi dal bind originale -->n440 v mappata -->n440
+Controllo --> vtemplate=n11 vi dal bind originale -->n531 v mappata -->n531
+Controllo --> vtemplate=n10 vi dal bind originale -->n240 v mappata -->n240
+Controllo --> vtemplate=n9 vi dal bind originale -->n978 v mappata -->n978
+Controllo --> vtemplate=n0 vi dal bind originale -->n893 v mappata -->n893
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Created Instance from template
+Property OLD: NEW:null
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/TEST_PAPER/CM-7/TemplateEvidence.xml
+PATHS
+PASSIAMO ALLE EVIDENZE
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+
+
+
+
+
+*******************************************************************************
+NODO RADICE ISTANCE:n893
+VECCHIO NODEO:n23	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n134	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n1	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n31	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n22	m:mechanism-d4-b0	 NUOVO NODO:n710	m:mechanism-d4-b0-d3-b0
+VECCHIO NODEO:n0	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n893	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n21	m:mechanism-d4-b0-d3-b2-d2-b0	 NUOVO NODO:n896	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n20	m:mechanism-d4-b0-d3-b1	 NUOVO NODO:n334	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n5	m:mechanism-d4-b0	 NUOVO NODO:n47	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n4	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n93	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n3	m:mechanism-d4-b0	 NUOVO NODO:n126	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n2	m:mechanism-d4-b0	 NUOVO NODO:n971	m:mechanism-d4-b0
+VECCHIO NODEO:n9	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n978	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n8	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n423	m:mechanism-d4-b0-d3-b2
+VECCHIO NODEO:n7	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n369	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n6	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n565	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n26	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n88	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n24	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n78	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n25	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n111	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n10	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n240	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n12	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n440	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n11	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n531	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n17	m:mechanism-d4-b0-d3-b0	 NUOVO NODO:n792	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n18	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0	 NUOVO NODO:n926	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n19	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n669	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n13	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n312	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n14	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n795	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n15	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n582	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n16	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n850	m:mechanism-d4-b0-d3-b2
+
+
+
+***********
+T Percorso0:[v[n22], v[n21], v[n20], v[n0]]
+I Percorso6:[v[n710], v[n896], v[n334], v[n893]]
+
+T Percorso1:[v[n19], v[n18], v[n17], v[n16], v[n0]]
+I Percorso5:[v[n669], v[n926], v[n792], v[n850], v[n893]]
+
+T Percorso2:[v[n15], v[n14], v[n13], v[n0]]
+I Percorso3:[v[n582], v[n795], v[n312], v[n893]]
+
+T Percorso3:[v[n26], v[n25], v[n24], v[n23], v[n0]]
+I Percorso4:[v[n88], v[n111], v[n78], v[n134], v[n893]]
+
+T Percorso4:[v[n4], v[n3], v[n2], v[n1], v[n0]]
+I Percorso1:[v[n93], v[n126], v[n971], v[n31], v[n893]]
+
+T Percorso5:[v[n8], v[n7], v[n6], v[n5], v[n0]]
+I Percorso0:[v[n423], v[n369], v[n565], v[n47], v[n893]]
+
+T Percorso6:[v[n12], v[n11], v[n10], v[n9], v[n0]]
+I Percorso2:[v[n440], v[n531], v[n240], v[n978], v[n893]]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ERROR
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+VECCHIO N:n1    NUOVO N:n646
+VECCHIO N:n23    NUOVO N:n964
+VECCHIO N:n0    NUOVO N:n772
+VECCHIO N:n22    NUOVO N:n335
+VECCHIO N:n21    NUOVO N:n212
+VECCHIO N:n20    NUOVO N:n183
+VECCHIO N:n5    NUOVO N:n104
+VECCHIO N:n4    NUOVO N:n767
+VECCHIO N:n3    NUOVO N:n745
+VECCHIO N:n2    NUOVO N:n198
+VECCHIO N:n9    NUOVO N:n951
+VECCHIO N:n8    NUOVO N:n106
+VECCHIO N:n7    NUOVO N:n820
+VECCHIO N:n6    NUOVO N:n769
+VECCHIO N:n26    NUOVO N:n423
+VECCHIO N:n24    NUOVO N:n955
+VECCHIO N:n25    NUOVO N:n61
+VECCHIO N:n10    NUOVO N:n620
+VECCHIO N:n12    NUOVO N:n555
+VECCHIO N:n11    NUOVO N:n65
+VECCHIO N:n17    NUOVO N:n329
+VECCHIO N:n18    NUOVO N:n871
+VECCHIO N:n19    NUOVO N:n946
+VECCHIO N:n13    NUOVO N:n43
+VECCHIO N:n14    NUOVO N:n250
+VECCHIO N:n15    NUOVO N:n549
+VECCHIO N:n16    NUOVO N:n1002
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n555], v[n65], v[n620], v[n951], v[n772]], [v[n767], v[n745], v[n198], v[n646], v[n772]], [v[n106], v[n820], v[n769], v[n104], v[n772]], [v[n549], v[n250], v[n43], v[n772]], [v[n423], v[n61], v[n955], v[n964], v[n772]], [v[n335], v[n212], v[n183], v[n772]], [v[n946], v[n871], v[n329], v[n1002], v[n772]]]
+CREATED GRAPH IN RAM
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+.
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+........
+Compatible after 4235 permutations
+Template paths:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+INSTANCE paths:[[v[n335], v[n212], v[n183], v[n772]], [v[n946], v[n871], v[n329], v[n1002], v[n772]], [v[n549], v[n250], v[n43], v[n772]], [v[n423], v[n61], v[n955], v[n964], v[n772]], [v[n767], v[n745], v[n198], v[n646], v[n772]], [v[n106], v[n820], v[n769], v[n104], v[n772]], [v[n555], v[n65], v[n620], v[n951], v[n772]]]
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+Controllo --> vtemplate=n22 vi dal bind originale -->n335 v mappata -->n335
+Controllo --> vtemplate=n21 vi dal bind originale -->n212 v mappata -->n212
+Controllo --> vtemplate=n20 vi dal bind originale -->n183 v mappata -->n183
+Controllo --> vtemplate=n0 vi dal bind originale -->n772 v mappata -->n772
+Controllo --> vtemplate=n19 vi dal bind originale -->n946 v mappata -->n946
+Controllo --> vtemplate=n18 vi dal bind originale -->n871 v mappata -->n871
+Controllo --> vtemplate=n17 vi dal bind originale -->n329 v mappata -->n329
+Controllo --> vtemplate=n16 vi dal bind originale -->n1002 v mappata -->n1002
+Controllo --> vtemplate=n0 vi dal bind originale -->n772 v mappata -->n772
+Controllo --> vtemplate=n15 vi dal bind originale -->n549 v mappata -->n549
+Controllo --> vtemplate=n14 vi dal bind originale -->n250 v mappata -->n250
+Controllo --> vtemplate=n13 vi dal bind originale -->n43 v mappata -->n43
+Controllo --> vtemplate=n0 vi dal bind originale -->n772 v mappata -->n772
+Controllo --> vtemplate=n26 vi dal bind originale -->n423 v mappata -->n423
+Controllo --> vtemplate=n25 vi dal bind originale -->n61 v mappata -->n61
+Controllo --> vtemplate=n24 vi dal bind originale -->n955 v mappata -->n955
+Controllo --> vtemplate=n23 vi dal bind originale -->n964 v mappata -->n964
+Controllo --> vtemplate=n0 vi dal bind originale -->n772 v mappata -->n772
+Controllo --> vtemplate=n4 vi dal bind originale -->n767 v mappata -->n767
+Controllo --> vtemplate=n3 vi dal bind originale -->n745 v mappata -->n745
+Controllo --> vtemplate=n2 vi dal bind originale -->n198 v mappata -->n198
+Controllo --> vtemplate=n1 vi dal bind originale -->n646 v mappata -->n646
+Controllo --> vtemplate=n0 vi dal bind originale -->n772 v mappata -->n772
+Controllo --> vtemplate=n8 vi dal bind originale -->n106 v mappata -->n106
+Controllo --> vtemplate=n7 vi dal bind originale -->n820 v mappata -->n820
+Controllo --> vtemplate=n6 vi dal bind originale -->n769 v mappata -->n769
+Controllo --> vtemplate=n5 vi dal bind originale -->n104 v mappata -->n104
+Controllo --> vtemplate=n0 vi dal bind originale -->n772 v mappata -->n772
+Controllo --> vtemplate=n12 vi dal bind originale -->n555 v mappata -->n555
+Controllo --> vtemplate=n11 vi dal bind originale -->n65 v mappata -->n65
+Controllo --> vtemplate=n10 vi dal bind originale -->n620 v mappata -->n620
+Controllo --> vtemplate=n9 vi dal bind originale -->n951 v mappata -->n951
+Controllo --> vtemplate=n0 vi dal bind originale -->n772 v mappata -->n772
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Created Instance from template
+Property OLD: NEW:null
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/TEST_PAPER/CM-7/TemplateEvidence.xml
+PATHS
+PASSIAMO ALLE EVIDENZE
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+
+
+
+
+
+*******************************************************************************
+NODO RADICE ISTANCE:n772
+VECCHIO NODEO:n23	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n964	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n1	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n646	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n22	m:mechanism-d4-b0	 NUOVO NODO:n335	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n0	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n772	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n21	m:mechanism-d4-b0-d3-b2-d2-b0	 NUOVO NODO:n212	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n20	m:mechanism-d4-b0-d3-b1	 NUOVO NODO:n183	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n5	m:mechanism-d4-b0	 NUOVO NODO:n104	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n4	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n767	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n3	m:mechanism-d4-b0	 NUOVO NODO:n745	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n2	m:mechanism-d4-b0	 NUOVO NODO:n198	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n9	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n951	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n8	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n106	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n7	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n820	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n6	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n769	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n26	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n423	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n24	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n955	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n25	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n61	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n10	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n620	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n12	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n555	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n11	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n65	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n17	m:mechanism-d4-b0-d3-b0	 NUOVO NODO:n329	m:mechanism-d4-b0-d3-b0
+VECCHIO NODEO:n18	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0	 NUOVO NODO:n871	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n19	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n946	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n13	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n43	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n14	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n250	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n15	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n549	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n16	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n1002	m:mechanism-d4-b0-d3-b2-d2-b0
+
+
+
+***********
+T Percorso0:[v[n22], v[n21], v[n20], v[n0]]
+I Percorso5:[v[n335], v[n212], v[n183], v[n772]]
+
+T Percorso1:[v[n19], v[n18], v[n17], v[n16], v[n0]]
+I Percorso6:[v[n946], v[n871], v[n329], v[n1002], v[n772]]
+
+T Percorso2:[v[n15], v[n14], v[n13], v[n0]]
+I Percorso3:[v[n549], v[n250], v[n43], v[n772]]
+
+T Percorso3:[v[n26], v[n25], v[n24], v[n23], v[n0]]
+I Percorso0:[v[n423], v[n61], v[n955], v[n964], v[n772]]
+
+T Percorso4:[v[n4], v[n3], v[n2], v[n1], v[n0]]
+I Percorso4:[v[n767], v[n745], v[n198], v[n646], v[n772]]
+
+T Percorso5:[v[n8], v[n7], v[n6], v[n5], v[n0]]
+I Percorso2:[v[n106], v[n820], v[n769], v[n104], v[n772]]
+
+T Percorso6:[v[n12], v[n11], v[n10], v[n9], v[n0]]
+I Percorso1:[v[n555], v[n65], v[n620], v[n951], v[n772]]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ERROR
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+VECCHIO N:n1    NUOVO N:n387
+VECCHIO N:n23    NUOVO N:n352
+VECCHIO N:n0    NUOVO N:n346
+VECCHIO N:n22    NUOVO N:n836
+VECCHIO N:n21    NUOVO N:n550
+VECCHIO N:n20    NUOVO N:n199
+VECCHIO N:n5    NUOVO N:n514
+VECCHIO N:n4    NUOVO N:n359
+VECCHIO N:n3    NUOVO N:n531
+VECCHIO N:n2    NUOVO N:n619
+VECCHIO N:n9    NUOVO N:n351
+VECCHIO N:n8    NUOVO N:n321
+VECCHIO N:n7    NUOVO N:n421
+VECCHIO N:n6    NUOVO N:n203
+VECCHIO N:n26    NUOVO N:n856
+VECCHIO N:n24    NUOVO N:n787
+VECCHIO N:n25    NUOVO N:n873
+VECCHIO N:n10    NUOVO N:n932
+VECCHIO N:n12    NUOVO N:n490
+VECCHIO N:n11    NUOVO N:n911
+VECCHIO N:n17    NUOVO N:n467
+VECCHIO N:n18    NUOVO N:n516
+VECCHIO N:n19    NUOVO N:n555
+VECCHIO N:n13    NUOVO N:n223
+VECCHIO N:n14    NUOVO N:n714
+VECCHIO N:n15    NUOVO N:n966
+VECCHIO N:n16    NUOVO N:n399
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n555], v[n516], v[n467], v[n399], v[n346]], [v[n836], v[n550], v[n199], v[n346]], [v[n856], v[n873], v[n787], v[n352], v[n346]], [v[n966], v[n714], v[n223], v[n346]], [v[n359], v[n531], v[n619], v[n387], v[n346]], [v[n321], v[n421], v[n203], v[n514], v[n346]], [v[n490], v[n911], v[n932], v[n351], v[n346]]]
+CREATED GRAPH IN RAM
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+.
+.............................................................
+.............................................................
+..............................
+Compatible after 744 permutations
+Template paths:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+INSTANCE paths:[[v[n836], v[n550], v[n199], v[n346]], [v[n555], v[n516], v[n467], v[n399], v[n346]], [v[n966], v[n714], v[n223], v[n346]], [v[n856], v[n873], v[n787], v[n352], v[n346]], [v[n359], v[n531], v[n619], v[n387], v[n346]], [v[n321], v[n421], v[n203], v[n514], v[n346]], [v[n490], v[n911], v[n932], v[n351], v[n346]]]
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+Controllo --> vtemplate=n22 vi dal bind originale -->n836 v mappata -->n836
+Controllo --> vtemplate=n21 vi dal bind originale -->n550 v mappata -->n550
+Controllo --> vtemplate=n20 vi dal bind originale -->n199 v mappata -->n199
+Controllo --> vtemplate=n0 vi dal bind originale -->n346 v mappata -->n346
+Controllo --> vtemplate=n19 vi dal bind originale -->n555 v mappata -->n555
+Controllo --> vtemplate=n18 vi dal bind originale -->n516 v mappata -->n516
+Controllo --> vtemplate=n17 vi dal bind originale -->n467 v mappata -->n467
+Controllo --> vtemplate=n16 vi dal bind originale -->n399 v mappata -->n399
+Controllo --> vtemplate=n0 vi dal bind originale -->n346 v mappata -->n346
+Controllo --> vtemplate=n15 vi dal bind originale -->n966 v mappata -->n966
+Controllo --> vtemplate=n14 vi dal bind originale -->n714 v mappata -->n714
+Controllo --> vtemplate=n13 vi dal bind originale -->n223 v mappata -->n223
+Controllo --> vtemplate=n0 vi dal bind originale -->n346 v mappata -->n346
+Controllo --> vtemplate=n26 vi dal bind originale -->n856 v mappata -->n856
+Controllo --> vtemplate=n25 vi dal bind originale -->n873 v mappata -->n873
+Controllo --> vtemplate=n24 vi dal bind originale -->n787 v mappata -->n787
+Controllo --> vtemplate=n23 vi dal bind originale -->n352 v mappata -->n352
+Controllo --> vtemplate=n0 vi dal bind originale -->n346 v mappata -->n346
+Controllo --> vtemplate=n4 vi dal bind originale -->n359 v mappata -->n359
+Controllo --> vtemplate=n3 vi dal bind originale -->n531 v mappata -->n531
+Controllo --> vtemplate=n2 vi dal bind originale -->n619 v mappata -->n619
+Controllo --> vtemplate=n1 vi dal bind originale -->n387 v mappata -->n387
+Controllo --> vtemplate=n0 vi dal bind originale -->n346 v mappata -->n346
+Controllo --> vtemplate=n8 vi dal bind originale -->n321 v mappata -->n321
+Controllo --> vtemplate=n7 vi dal bind originale -->n421 v mappata -->n421
+Controllo --> vtemplate=n6 vi dal bind originale -->n203 v mappata -->n203
+Controllo --> vtemplate=n5 vi dal bind originale -->n514 v mappata -->n514
+Controllo --> vtemplate=n0 vi dal bind originale -->n346 v mappata -->n346
+Controllo --> vtemplate=n12 vi dal bind originale -->n490 v mappata -->n490
+Controllo --> vtemplate=n11 vi dal bind originale -->n911 v mappata -->n911
+Controllo --> vtemplate=n10 vi dal bind originale -->n932 v mappata -->n932
+Controllo --> vtemplate=n9 vi dal bind originale -->n351 v mappata -->n351
+Controllo --> vtemplate=n0 vi dal bind originale -->n346 v mappata -->n346
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Created Instance from template
+Property OLD: NEW:null
+LOADING EVIDENCE FROM:/Users/iridium/Downloads/TEST_PAPER/CM-7/TemplateEvidence.xml
+PATHS
+PASSIAMO ALLE EVIDENZE
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+matching trovato per path singolo
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+File saved!
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+
+
+
+
+
+*******************************************************************************
+NODO RADICE ISTANCE:n346
+VECCHIO NODEO:n23	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n352	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n1	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n387	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n22	m:mechanism-d4-b0	 NUOVO NODO:n836	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n0	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n346	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n21	m:mechanism-d4-b0-d3-b2-d2-b0	 NUOVO NODO:n550	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n20	m:mechanism-d4-b0-d3-b1	 NUOVO NODO:n199	m:mechanism-d4-b0-d3-b1
+VECCHIO NODEO:n5	m:mechanism-d4-b0	 NUOVO NODO:n514	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n4	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n359	m:mechanism-d4-b0-d3-b2
+VECCHIO NODEO:n3	m:mechanism-d4-b0	 NUOVO NODO:n531	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n2	m:mechanism-d4-b0	 NUOVO NODO:n619	m:mechanism-d4-b0-d3-b1
+VECCHIO NODEO:n9	m:mechanism-d4-b0-d3-b0-d2-b0	 NUOVO NODO:n351	m:mechanism-d4-b0-d3-b0-d2-b0
+VECCHIO NODEO:n8	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n321	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n7	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n421	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n6	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n203	m:mechanism-d4-b0-d3-b2-d2-b0
+VECCHIO NODEO:n26	m:mechanism-d4-b0-d3-b1-d2-b0	 NUOVO NODO:n856	m:mechanism-d4-b0-d3-b1-d2-b0
+VECCHIO NODEO:n24	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n787	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n25	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n873	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n10	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n932	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n12	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n490	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n11	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n911	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n17	m:mechanism-d4-b0-d3-b0	 NUOVO NODO:n467	m:mechanism-d4-b0-d3-b0
+VECCHIO NODEO:n18	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0	 NUOVO NODO:n516	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+VECCHIO NODEO:n19	m:mechanism-d4-b0-d3-b1-d2-b1	 NUOVO NODO:n555	m:mechanism-d4-b0-d3-b1-d2-b1
+VECCHIO NODEO:n13	m:mechanism-d4-b0-d3-b3	 NUOVO NODO:n223	m:mechanism-d4-b0-d3-b3
+VECCHIO NODEO:n14	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n714	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n15	m:mechanism-d4-b0-d3-b0-d2-b1	 NUOVO NODO:n966	m:mechanism-d4-b0-d3-b0-d2-b1
+VECCHIO NODEO:n16	m:mechanism-d4-b0-d3-b2	 NUOVO NODO:n399	m:mechanism-d4-b0-d3-b2-d2-b0-d1-b0
+
+
+
+***********
+T Percorso0:[v[n22], v[n21], v[n20], v[n0]]
+I Percorso1:[v[n836], v[n550], v[n199], v[n346]]
+
+T Percorso1:[v[n19], v[n18], v[n17], v[n16], v[n0]]
+I Percorso0:[v[n555], v[n516], v[n467], v[n399], v[n346]]
+
+T Percorso2:[v[n15], v[n14], v[n13], v[n0]]
+I Percorso3:[v[n966], v[n714], v[n223], v[n346]]
+
+T Percorso3:[v[n26], v[n25], v[n24], v[n23], v[n0]]
+I Percorso2:[v[n856], v[n873], v[n787], v[n352], v[n346]]
+
+T Percorso4:[v[n4], v[n3], v[n2], v[n1], v[n0]]
+I Percorso4:[v[n359], v[n531], v[n619], v[n387], v[n346]]
+
+T Percorso5:[v[n8], v[n7], v[n6], v[n5], v[n0]]
+I Percorso6:[v[n321], v[n421], v[n203], v[n514], v[n346]]
+
+T Percorso6:[v[n12], v[n11], v[n10], v[n9], v[n0]]
+I Percorso5:[v[n490], v[n911], v[n932], v[n351], v[n346]]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ERROR
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH IN RAM
+VECCHIO N:n1    NUOVO N:n315
+VECCHIO N:n23    NUOVO N:n561
+VECCHIO N:n0    NUOVO N:n621
+VECCHIO N:n22    NUOVO N:n433
+VECCHIO N:n21    NUOVO N:n596
+VECCHIO N:n20    NUOVO N:n93
+VECCHIO N:n5    NUOVO N:n522
+VECCHIO N:n4    NUOVO N:n979
+VECCHIO N:n3    NUOVO N:n431
+VECCHIO N:n2    NUOVO N:n622
+VECCHIO N:n9    NUOVO N:n361
+VECCHIO N:n8    NUOVO N:n545
+VECCHIO N:n7    NUOVO N:n595
+VECCHIO N:n6    NUOVO N:n889
+VECCHIO N:n26    NUOVO N:n540
+VECCHIO N:n24    NUOVO N:n52
+VECCHIO N:n25    NUOVO N:n589
+VECCHIO N:n10    NUOVO N:n985
+VECCHIO N:n12    NUOVO N:n910
+VECCHIO N:n11    NUOVO N:n167
+VECCHIO N:n17    NUOVO N:n179
+VECCHIO N:n18    NUOVO N:n453
+VECCHIO N:n19    NUOVO N:n184
+VECCHIO N:n13    NUOVO N:n755
+VECCHIO N:n14    NUOVO N:n374
+VECCHIO N:n15    NUOVO N:n636
+VECCHIO N:n16    NUOVO N:n65
+CHARGING THE GRAPH
+Permutations available:5040
+Path Avaiable:[[v[n545], v[n595], v[n889], v[n522], v[n621]], [v[n910], v[n167], v[n985], v[n361], v[n621]], [v[n540], v[n589], v[n52], v[n561], v[n621]], [v[n979], v[n431], v[n622], v[n315], v[n621]], [v[n184], v[n453], v[n179], v[n65], v[n621]], [v[n636], v[n374], v[n755], v[n621]], [v[n433], v[n596], v[n93], v[n621]]]
+CREATED GRAPH IN RAM
+Permutations available:5040
+Path Avaiable:[[v[n22], v[n21], v[n20], v[n0]], [v[n19], v[n18], v[n17], v[n16], v[n0]], [v[n15], v[n14], v[n13], v[n0]], [v[n26], v[n25], v[n24], v[n23], v[n0]], [v[n4], v[n3], v[n2], v[n1], v[n0]], [v[n8], v[n7], v[n6], v[n5], v[n0]], [v[n12], v[n11], v[n10], v[n9], v[n0]]]
+CREATED GRAPH TEMPLATE IN RAM
+ROOT - OK
+CARDINALITY - OK
+.
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+.............................................................
+..............................................

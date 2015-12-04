@@ -1,0 +1,40 @@
+rami 1
+Eu-1 		Success 		Fail
+model 		     139 		      21
+evidence 	       5 		     155
+Eu-2 		Success 		Fail
+model 		     160 		       0
+evidence 	      30 		     130
+
+rami 2
+Eu-1 		Success 		Fail
+model 		     137 		      23
+evidence 	      65 		      95
+Eu-2 		Success 		Fail
+model 		     160 		       0
+evidence 	      64 		      96
+
+rami 2
+Eu-1 		Success 		Fail
+model 		      79 		      81
+evidence 	      10 		     150
+Eu-2 		Success 		Fail
+model 		     152 		       8
+evidence 	      89 		      71
+
+
+rami 3
+Eu-1 		Success 		Fail
+model 		     132 		      28
+evidence 	      77 		      83
+Eu-2 		Success 		Fail
+model 		     160 		       0
+evidence 	     112 		      48
+
+rami 4
+Eu-1 		Success 		Fail
+model 		     160 		       0
+evidence 	     148 		      12
+Eu-2 		Success 		Fail
+model 		     160 		       0
+evidence 	     148 		      12

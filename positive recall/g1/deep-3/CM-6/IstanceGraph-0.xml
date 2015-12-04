@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd"><key id="mechanism" for="node" attr.name="mechanism" attr.type="string"></key>
+<graph id="G" edgedefault="directed">
+<node id="n440"><data key="mechanism">mechanism-d4-b0-d3-b1-d2-b0-d1-b0</data></node>
+<node id="n234"><data key="mechanism">mechanism-d4-b0-d3-b1-d2-b0-d1-b0</data></node>
+<node id="n504"><data key="mechanism">mechanism-d4-b0-d3-b1-d2-b0-d1-b0-d0-b0</data></node>
+<node id="n868"><data key="mechanism">mechanism-d4-b0-d3-b1-d2-b0-d1-b0</data></node>
+<node id="n37"><data key="mechanism">mechanism-d4-b0-d3-b1-d2-b0-d1-b0-d0-b0</data></node>
+<node id="n163"><data key="mechanism">mechanism-d4-b0-d3-b1-d2-b0</data></node>
+<node id="n335"><data key="mechanism">mechanism-d4-b0-d3-b1-d2-b0-d1-b0</data></node>
+<node id="n482"><data key="mechanism">mechanism-d4-b0-d3-b1</data></node>
+<node id="n858"><data key="mechanism">mechanism-d4-b0-d3-b1-d2-b0-d1-b0-d0-b0</data></node>
+<edge id="4" source="n234" target="n335" label="a4538540-1f54-4f5f-8213-3b7865f6ade2"></edge>
+<edge id="1" source="n234" target="n37" label="96578c05-39ec-477c-b5f9-05421a4ee923"></edge>
+<edge id="3" source="n234" target="n163" label="9e92eef5-75dd-46f5-8742-5c65154847a9"></edge>
+<edge id="5" source="n234" target="n858" label="a0660ba7-f6f1-4785-854a-35f4f01a3d60"></edge>
+<edge id="0" source="n234" target="n868" label="f92c4f0d-7f57-483c-8f1f-829938644861"></edge>
+<edge id="2" source="n234" target="n482" label="f9ee539f-f248-4259-a10f-a75580275c5b"></edge>
+<edge id="6" source="n868" target="n440" label="d0117142-c613-4bab-bfc6-d4c57fde15c7"></edge>
+<edge id="7" source="n858" target="n504" label="36a0bee5-37aa-4c88-8d0a-27b54a14b612"></edge>
+</graph>
+</graphml>
