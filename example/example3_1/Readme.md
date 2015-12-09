@@ -15,7 +15,8 @@ _Let us consider a cloud storage service deployed on top of OpenStack, an open s
 3. encryption-data-at-rest
 
 **model.xml** is an xml representation of the STS model in figure:
-![alt text](https://github.com/SESARLab/tsc-matching/tree/master/example/example3_1/model.png "model")
+
+![model](https://raw.githubusercontent.com/SESARLab/tsc-matching/master/example/example3_1/model.png)
 
 
 **evidence** specifies the required input partitions and the expected output to analyse the model execution
