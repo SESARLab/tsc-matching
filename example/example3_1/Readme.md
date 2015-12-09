@@ -19,6 +19,6 @@ _Let us consider a cloud storage service deployed on top of OpenStack, an open s
 <img src="https://raw.githubusercontent.com/SESARLab/tsc-matching/master/example/example3_1/model.png" width=100px>
 
 
-**evidence** specifies the required input partitions and the expected output to analyse the model execution
+**evidence.xml** specifies the required input partitions and the expected output to analyse the model execution
 
 
