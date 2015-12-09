@@ -10,7 +10,7 @@
 		<service>service</service>
 	</ToC>
 	<ToC id="2">
-		<mechanism>encryption-at-rest-encrypted FS</mechanism>
-		<service>service</service>
+		<mechanism>encryption-at-rest-encrypted-FS</mechanism>
+		<service>infrastructure</service>
 	</ToC>
 </ToCs>

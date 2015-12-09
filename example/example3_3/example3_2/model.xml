@@ -1,1 +1,18 @@
-<?xml version="1.0" ?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd"><key id="mechanism" for="node" attr.name="mechanism" attr.type="string"></key><graph id="G" edgedefault="directed"><node id="n568"><data key="mechanism">mechanism-d4-b0-d3-b2-d2-b0</data></node><node id="n166"><data key="mechanism">mechanism-d4-b0-d3-b1-d2-b0</data></node><node id="n995"><data key="mechanism">mechanism-d4-b0-d3-b1-d2-b0</data></node><node id="n854"><data key="mechanism">mechanism-d4-b0-d3-b0-d2-b0</data></node><node id="n253"><data key="mechanism">mechanism-d4-b0-d3-b0</data></node><node id="n962"><data key="mechanism">mechanism-d4-b0-d3-b2-d2-b0-d1-b0</data></node><node id="n650"><data key="mechanism">mechanism-d4-b0-d3-b2-d2-b0-d1-b0</data></node><edge id="0" source="n854" target="n253" label="23497da5-6eba-4528-815d-c70e291f35c7"></edge><edge id="1" source="n854" target="n650" label="dfff5733-3e20-4af1-951d-5a1a585b6c7f"></edge><edge id="2" source="n854" target="n962" label="28630920-f950-41ba-aa62-1af97f9dc623"></edge><edge id="4" source="n854" target="n166" label="ec525a1c-49e7-442e-8a28-cf56e361f9fe"></edge><edge id="3" source="n854" target="n995" label="07e7f1ef-295a-44e7-a2f3-dafd15df697a"></edge><edge id="5" source="n650" target="n568" label="0d5411c8-47ae-4772-b0d0-bc6608309f6e"></edge></graph></graphml>
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+   <key id="mechanism" for="node" attr.name="mechanism" attr.type="string" />
+   <graph id="G" edgedefault="directed">
+      <node id="n0">
+         <data key="mechanism">encryption-XML-encryption-WS-Security-message-in-transit</data>
+      </node>
+      <node id="n1">
+         <data key="mechanism">encryption-internal-communications-HTTPS</data>
+      </node>
+      <node id="n2">
+         <data key="mechanism">encryption-at-rest-encrypted-FS</data>
+      </node>
+      
+      <edge id="0" source="n0" target="n1" label="23497da5-6eba-4528-815d-c70e291f35c7" />
+      <edge id="1" source="n1" target="n2" label="dfff5733-3e20-4af1-951d-5a1a585b6c7f" />
+   </graph>
+</graphml>
