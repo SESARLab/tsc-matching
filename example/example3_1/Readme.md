@@ -16,7 +16,7 @@ _Let us consider a cloud storage service deployed on top of OpenStack, an open s
 
 **model.xml** is an xml representation of the STS model in figure:
 
-![model](https://raw.githubusercontent.com/SESARLab/tsc-matching/master/example/example3_1/model.png)
+![model](https://raw.githubusercontent.com/SESARLab/tsc-matching/master/example/example3_1/model.png =100x)
 
 
 **evidence** specifies the required input partitions and the expected output to analyse the model execution
