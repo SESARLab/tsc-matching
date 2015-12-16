@@ -8,13 +8,13 @@ _Let us consider CM Template T in Example 3.1. A CM Instance I for T can include
 
 * Confidentiality
 
-**tocs.xml** contains the three mechanism:
+**tocs.xml** contains the three mechanisms:
 
 1. encryption-XML-encryption-WS-Security-message-in-transit
 2. encryption-internal-communications-HTTPS
 3. encryption-at-rest-encrypted-FS
 
-**model.xml** is an xml representation of the STS model in figure:
+**model.xml** is an XML representation of the STS model in the following figure:
 
 <img src="https://raw.githubusercontent.com/SESARLab/tsc-matching/master/example/example3_2/model.png" width=120px>
 

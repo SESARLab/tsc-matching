@@ -1,22 +1,21 @@
 ##### Examples
 
-Directory "Example" contains all artifacts related to Examples 3.1, 3.2 and 3.3.
-This three examples represent respectively an example of CM Template, an example of CM Intance and an example of Certificate. Other examples that we have used during the Cumulus project are available [here](https://github.com/fgaudenzi/TBprototypeInstallation) and [here](https://github.com/fgaudenzi/TBprototypeInstallation)
+Folder "Example" contains all artifacts related to Examples 3.1, 3.2 and 3.3.
+This three examples represent respectively an example of CM Template, an example of CM Intance and an example of Certificate. Other examples that we have used during the Cumulus project are available [here](https://github.com/fgaudenzi/TBprototypeInstallation)
 
 Example 3.1 and Example 3.2 have the same structure, they are composed of four files:
 
 
 * **property.txt** contains the property to be certified;
 * **tocs.xml** contains the information about ToC (including mechanisms and services);
-* **model.xml** contains an xml representation of the STS model;
-* **evidence.xml** contains the test cases which drive the execution.
+* **model.xml** ccontains an XML representation of the STS model;
+* **evidence.xml** contains the test cases which drive the evaluation.
 
-
-The four files contribute to the definition of the CM template and CM Instance.
+The four files contribute to the definition of the CM Template and CM Instance in Example 3.1 and Example 3.2, respectively.
 
 Example 3.3 enriches Example 3.1 and Example 3.2 with:
 
-* **ws.txt** which specifies the url where service is availabe.
-* **evidenceCertificate.xml** wich contains the effective results of the tests executions.
+* **ws.txt** that specifies the url where the service is availabe.
+* **evidenceCertificate.xml** that contains the results of the test case execution.
 
-Each folder contains a more detailed description of each example.
+Each subfolder (i.e., example3_1, example3_2, example3_3) contains a more detailed description of each example.
