@@ -1,1 +1,0 @@
-http://172.25.27.11:8080/testingService
