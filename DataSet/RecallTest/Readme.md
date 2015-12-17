@@ -1,6 +1,6 @@
-##### Recall DataSet
+##### Recall Data sets
 
-RecallTest is organzed by two subfloders. Both of them use different mechanisms hierarchy (all mecanism are contained in [mehcanism](https://github.com/SESARLab/tsc-matching/tree/master/DataSet/mechanism) folder) in oder to have different match per flow.
+RecallTest is composed of two sub-floders. Both of them use different mechanism hierarchies (all mechanisms are contained in [mechanism](https://github.com/SESARLab/tsc-matching/tree/master/DataSet/mechanism) folder) in oder to have different match per flow.
 
 1. **[Positive Recall](https://github.com/SESARLab/tsc-matching/tree/master/DataSet/RecallTest/positive%20recall)** contains 1140 instances that provide a right match with their templates.
 2. **[Negative Recall](https://github.com/SESARLab/tsc-matching/tree/master/DataSet/RecallTest/negative%20recall)** contains 1140 instances modifies from the 1440 from Positive Recall in order to be deny the match of each instance with its own template.
