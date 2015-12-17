@@ -14,7 +14,7 @@ _Let us consider a cloud storage service deployed on top of OpenStack, an open s
 2. encryption-internal-communications
 3. encryption-data-at-rest
 
-**model.xml** iis an XML representation of the STS model in the following figure:
+**model.xml** is an XML representation of the STS model in the following figure:
 
 <img src="https://raw.githubusercontent.com/SESARLab/tsc-matching/master/example/example3_1/model.png" width=100px>
 
