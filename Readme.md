@@ -10,8 +10,5 @@ It is organized in two main folders containing all building blocks and datasets 
 
 
 
-Folder [DataSet](https://github.com/SESARLab/tsc-matching/tree/master/DataSet) is organized in two main subfloders as follows:
- 1. Subfolder **[RecallTest](https://github.com/SESARLab/tsc-matching/tree/master/DataSet/recallTest)** contains all the datasets we have used for the evaluation of our approach based on positive and negative recall.
- 2. Subfolder **[PerformanceTest](https://github.com/SESARLab/tsc-matching/tree/master/dataSet/performanceTest)** contains all datasets for testing the different matching algorithm performances.
 
 
