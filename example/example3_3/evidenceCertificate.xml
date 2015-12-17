@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<allEvidences>
+   <evidences path="0">
+      <evidence>
+         <mechanism>encryption-XML-encryption-WS-Security-message-in-transit</mechanism>
+         <state>n0</state>
+         <inputs>
+            <input>
+               <key>host</key>
+               <value>172.25.27.11</value>
+               <domain>d1</domain>
+            </input>
+         </inputs>
+         <expectedOutput>
+            <output>
+               <key>Result</key>
+               <value>SSL/TLS supported</value>
+               <domain>d1</domain>
+            </output>
+         </expectedOutput>
+      </evidence>
+      <evidence>
+         <mechanism>encryption-internal-communications-HTTPS</mechanism>
+         <state>n1</state>
+         <inputs>
+            <input>
+               <key>serviceUri</key>
+               <value>internalService.uri</value>
+               <domain>d1</domain>
+            </input>
+         </inputs>
+         <expectedOutput>
+            <output>
+               <key>Result</key>
+               <value>SSL/TLS supported</value>
+               <domain>d1</domain>
+            </output>
+         </expectedOutput>
+      </evidence>
+      <evidence>
+         <mechanism>encryption-at-rest-encrypted-FS</mechanism>
+         <state>n2</state>
+         <inputs>
+            <input>
+               <key>local</key>
+               <value>/dev/sda1</value>
+               <domain>d1</domain>
+            </input>
+         </inputs>
+         <expectedOutput>
+            <output>
+               <key>Result</key>
+               <value>challenge not found</value>
+               <domain>d1</domain>
+            </output>
+         </expectedOutput>
+      </evidence>
+   </evidences>
+</allEvidences>

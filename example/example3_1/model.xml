@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+   <key id="mechanism" for="node" attr.name="mechanism" attr.type="string" />
+   <graph id="G" edgedefault="directed">
+      <node id="n0">
+         <data key="mechanism">encryption-message-in-transit</data>
+      </node>
+      <node id="n1">
+         <data key="mechanism">encryption-internal-communications</data>
+      </node>
+      <node id="n2">
+         <data key="mechanism">encryption-data-at-rest</data>
+      </node>
+      
+      <edge id="0" source="n0" target="n1" label="23497da5-6eba-4528-815d-c70e291f35c7" />
+      <edge id="1" source="n1" target="n2" label="dfff5733-3e20-4af1-951d-5a1a585b6c7f" />
+   </graph>
+</graphml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ToCs>
+	
+	<ToC id="1">
+		<mechanism>encryption-message-in-transit</mechanism>
+		<service>service</service>
+	</ToC>
+	<ToC id="2">
+		<mechanism>encryption-internal-communications</mechanism>
+		<service>service</service>
+	</ToC>
+	<ToC id="3">
+		<mechanism>encryption-data-at-rest</mechanism>
+		<service>infrastructure</service>
+	</ToC>
+</ToCs>
