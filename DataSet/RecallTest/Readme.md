@@ -1,4 +1,4 @@
-##### Recall Data sets
+##### Recall Datasets
 
 RecallTest is composed of two subfolders. Both of them use different mechanism hierarchies (all mechanisms are contained in [mechanism](https://github.com/SESARLab/tsc-matching/tree/master/DataSet/mechanism) folder) in oder to have different match per flow.
 
