@@ -1,4 +1,4 @@
-# TSC - A semi-automatic and trustworthy scheme for certificate life cycle management in the cloud
+# A semi-automatic and trustworthy scheme for continuous cloud service certification
 ##### Authors: Marco Anisetti, Claudio A. Ardagna, Ernesto Damiani, Filippo Gaudenzi
 
 This repository presents additional information for reviewers and readers of the paper titled "A semi-automatic and trustworthy scheme for certificate life cycle management in the cloud".
