@@ -43,3 +43,12 @@ procedure k-match(path[] instancep,path[] 	templatep,int tocheckT, path[] checke
 end_procedure
 
 ```
+
+Heuristic 2: Ordered k-matching. Evidence collection model verification is carried out by first ordering the flows in Φ(m) and Φ(m), and then applying k-matching heuristic. We use an ordering function that recursively compares nodes at the same depth d, with d=1,...,β, from the ancestors to the leafs. For each d, only flows that have not been ordered yet according to the previous runs of the ordering function are considered. The ordering function is based on the hierarchy of mechanisms HM and given two flows φi and φj, with i>j, φi is ordered first iff mechanism θi at depth d of φi and mechanism θj at depth d of φj are such that θj≺θi. In the worst case scenario, the algorithm has the same asymptotic behavior as Heuristic 1, since the complexity of the ordering process is negligible compared to the one of k-matching.
+
+```
+//it uses the same function k-match, but instancep and templatep are ordered  based on the hierarchy of mechanisms HM
+// ordered(path[] paths) is the ordering function, returns an ordered array
+
+solutions=k-match(ordered(instancep),ordered(templatep),0,[])
+```
