@@ -9,7 +9,7 @@ Psuedo-Code k-match:
 //instancep is an array containing the CM instance flows 
 //templatep is an array containing the CM Template flows 
 
-//tocheckT is the number of CM Tempalte flows under comparison. k-match heuristic uses as pivot array tamplatep, indeed it checks once every CM Tempate flows against all CM Instance flows.
+//tocheckT is the index of the CM Tempalte flow under comparison. k-match heuristic uses as pivot array tamplatep, indeed it checks once every CM Tempate flows against all CM Instance flows.
 //checked is the array of CM instance flows already mapped in CM Template flows.
 
 //heuristic starts with k-match(instancep,tempaltep,0,[])
